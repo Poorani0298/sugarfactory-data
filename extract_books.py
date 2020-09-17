@@ -7,16 +7,19 @@ content = open(file).read()
 
 tree = html.fromstring(content)
 
-company_names=tree.cssselect('div.search-item h3')
+company_names=tree.cssselect('div.search-item')
 for company_name in company_names:
-	print(company_name.cssselect('a')[0].text)
-	
+	print(company_name.cssselect('h3')[0].cssselect('a')[0].text)
+	print(company_name.cssselect('div div p')[0].cssselect('span')[0].text)
+	print(company_name.cssselect('div div p')[1].cssselect('span')[0].text)
+	print(company_name.cssselect('div div p')[2].cssselect('span')[0].text)
+	print("................................................................")
 
-company_details=tree.cssselect('div.search-item div div p')
-print(tree.cssselect('div.search-item div div p')[2].cssselect('span')[0].text)
-for company_detail in company_details:
-	if len(company_detail.cssselect('span')) > 0:
-		print(company_detail.cssselect('span')[0].text)
+# company_details=tree.cssselect('div.search-item div div p')
+# print(tree.cssselect('div.search-item div div p')[2].cssselect('span')[0].text)
+# for company_detail in company_details:
+# 	if len(company_detail.cssselect('span')) > 0:
+# 		print(company_detail.cssselect('span')[0].text)
 
 
 # print(tree.cssselect('b')[0].text)
