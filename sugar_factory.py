@@ -4,9 +4,9 @@ import requests
 import csv
 
 #import glob
+file = "./sugarfactory/www.anekantprakashan.com/sugar-factories-in-amroha/district"
 
-# file = "./sugarfactory/List of Sugar Factories in tamil nadu State.html"
-file="./sugarfactory/List of Sugar Factories in tamil nadu State1.html"
+
 content = open(file).read()
 
 tree = html.fromstring(content)    
