@@ -1,0 +1,891 @@
+Company Name,Plant name,Address,Contact Details
+"The Chittoor Co-operative Sugars Ltd., Chittoor, Andhra Pradesh",Chittoor,"P.B. No. 42, Chittoor","(08572) 245152, 245204"
+"KBD Sugars and Distilleries Ltd., Punganur, Andhra Pradesh",Kumarantham,"Vill. Mudipapanapalli,PO. Sugalimitta,Punganur","(08581) 200648, 200647"
+"Natems Sugar Pvt. Ltd., (Prudential), Nindra Mandal, Andhra Pradesh",Nindra,"Vill. & PO. Koppedu, Nindra Mandal",(08576) 271093
+"Sudalagunta Sugars Ltd., BN Kandriga Mandal, Andhra Pradesh",Mayura Nagar,"Mayura Nagar, PO. Katur, B.N. Kandriga Mandal","(08578) 277353, (08578) 277028"
+"SNJ Sugars and Products Ltd., Puram Mandal, Andhra Pradesh",Nelavoy,"(Formerly Known as Sagar Sugars & Allied Products Ltd.,) Vill. Nelavoy, S.R. Puram Mandal.",(044) 27843157
+"Sri Venkateswara Co-op. Sugar Factory Ltd., Renigunta Mandal, Andhra Pradesh",Tirupati,"Gajulamandyam Village, Renigunta Mandal.",(0877) 2275315
+"Sri Sarvaraya Sugars Ltd., Rayavaram Mandal, Andhra Pradesh",Chelluru,"Chelluru, Rayavaram Mandal.",(08857) 242701 to 09
+"Delta Sugars Ltd., Krishna, Andhra Pradesh",Delta,"Serinarasannapalem (V), Hanuman Junction","(08656) 242182, 242183"
+"K.C.P. Sugar And Industries Corporation Ltd. Lakshmipuram, Krishna, Andhra Pradesh",Lakshmipuram,"Lakshmipuram, Challapalli Mandal, Dist. Krishna 521 131.","(08671) 222046, 222426"
+"K.C.P. Sugar and Industries Corporation Ltd., Vuyyuru, Andhra Pradesh",Vuyyuru,"Vuyyuru, Dist. Krishna 521 165",(08676) 232001/02
+"Nava Bharat Ventures Ltd. (Sugar Division), Samalkot, Andhra Pradesh",Samalkot,"Samalkot, Dist. East Godavari 533 440.","(0884) 2327384, 2327584, 2327337, 2327471"
+"Empee Sugars and Chemicals Ltd., Nayudupeta Mandal, Andhra Pradesh",Nayudupeta,"Ayyappareddy Palem, Nayudupeta Mandal, Dist. Nellore 524 126 (AP)","(08623) 248150, 171, 248590"
+"Sudalagunta Sugars Ltd., (Unit - 2), (NCS Sugar), Podalakur Mandal, Andhra Pradesh",G.S. Complex,"Prabhagiripatnam Vill., Podalakur Mandal, Dist. SPSR Nellore 524 345",(08621) 229494
+"E.I.D. Parry (India) Ltd., Amadalavalasa Mandal, Andhra Pradesh",Varalakshmi,"Sankili (Vill) , Regidi Amadala Valasa (Mandal)",(08941) 237546/535/537/514
+"The Anakapalle V.V. Ramana Co-operative Sugars Ltd., Anakapalle Mandal, Andhra Pradesh",Anakapalle,"No. W/41, Thummapala, Anakapalle Mandal, D. Visakhapatnam 531 032.",(08924) 222774
+"The Chodavaram Co-op. Sugars Ltd., Chodavaram Mandal, Andhra Pradesh",Chodavaram,"Vill. Govada, Chodavaram Mandal",(08934) 245140
+"The Etikoppaka Co-operative Agricultural and Industrial Society Ltd., Rayavaram Mandal, Andhra Pradesh",Etikoppaka,"M-191, Darlapudi, S. Rayavaram Mandal","(08931) 220371,220786"
+"The Thandava Co-operative Sugars Ltd., Payakaraopeta, Andhra Pradesh",Thandava,"No.C. 181, Payakaraopeta","(08854) 253587, (08854) 254091, 92"
+"NCS Sugars Ltd., Seethanagarm Mandal, Andhra Pradesh",NCS Sugars,"Lakshimi Tirumala, Latchayyapeta, Seethanagarm Mandal Via Bobbili","(08944) 254239, 254270"
+"Sri Vijayarama Gajapathi Co-op. Sugars Ltd., Kumaram, Andhra Pradesh",Vijayarama,"Kumaram, S. S. Korukonda (SO), Dist. Vizianagaram 535 214","(08922) 246142, 246051"
+"The Andhra Sugars Ltd., Tanuku, Andhra Pradesh",Tanuku,"Venkatarayapuram, Tanuku,",(08819) 224911 to 917
+"The Andhra Sugars Ltd. (Sugar Unit - II), Taduvai, Andhra Pradesh",Taduvai,"Taduvai, Jangareddygudem Mandal","(08821) 282242, 282262"
+"The Andhra Sugars Ltd. (Unit-III), Bhimadole, Andhra Pradesh",Bhimadole,"Surappagudem, Bhimadole","08829 222256, 222258"
+"The Jeypore Sugar Company Ltd., Chagallu, Andhra Pradesh",Chagallu,Chagallu,"(08813) 271424, 271560, 271561, 271088"
+"Magadh Sugar and Energy Ltd., (Bharat sugar Mills), Gopalganj, Bihar",Sidhwalia,PO. Sidhwalia,09771479900
+"Sasa Musa Sugar Works Ltd., Gopalganj, Bihar",Sasamusa,PO. Sasa Musa,"(06156) 281521, 22"
+"Vishnu Sugar Mills Ltd., Gopalganj, Bihar",Gopalganj,"P.O. Vishnu Sugar Mills, Dist. Gopalganj - 841428 (Bihar)",N.A.
+"Magadh Sugar and Energy Limited, Unit- Hasanpur Sugar Mills, Samastipur, Bihar",Hasanpur,PO. Hasanpur Sugar Mills.,(06275) 258234
+"Riga Sugar Co. Ltd., Sitamarhi, Bihar",Righa,"Dhanuka Gram, PO. Riga.","(06226) 285045, 285760"
+"Harinagar Sugar Mills Ltd., Harinagar, Bihar",Harinagar,PO. Harinagar,(06256) 224223.
+"Majhaulia Sugar Industries Pvt. Ltd., (Jay Shree Sugar Mill), Majhaulia, Bihar",Majhaulia,"(A Unit of Jay Shree Tea & Industries Ltd.), PO. Majhaulia","(06254) 282215, 282173, 282921"
+"Magadh Sugar And Energy Ltd., Unit New Swadeshi Sugar Mills, Narkatiaganj, Bihar",Narkatiaganj,"PO- Narkatiaganj, P.S. Shikarpur",(06253 ) 242227
+"Tirupati Sugars Ltd., Bagaha, Bihar",Bagaha,"Bagaha, PO. Naraipur","+91 129 4051311,"
+"Ajara Shetkari Sahakari Sakhar Karkhana Ltd., Ajara, Maharashtra",Ajara,"Gavase, Teh. Ajara.","(02323) 247516, 247515"
+"Appasaheb
+ Nalwade Gadhinglaj Taluka S.S.K. Ltd.(Collaboration with Brisk 
+Facilities (Sugar Division) Pvt. Ltd., Pune), Harali, Maharashtra",Gadhinglaj,"Harali,  Tal. Gadhinglaj","(02327) 250317, 250318, 250319"
+"Shree Bhogawati Sahakari Sakhar Karkhana Ltd., Shahunagar, Maharashtra",Bhogawati,"Shahunagar (Parite), Teh. Karveer.",(0231) 2385622 -624
+"Shree Chhatrapati Shahu S.S.K. Ltd., Kagal, Maharashtra",SHAHUSUGAR KAGAL,"Shrimant Jaysingrao Ghatage Bhavan, Kagal, Tal. Kagal.",(02325) 244211 to 14
+"Shri Chhatrapati Rajaram Sahakari Sakhar Karkhana ltd., Kasaba Bawada, Kolhapur., Maharashtra",Kolhapur,"Kasaba Bawada, Tah. Karveer. Dist. Kolhapur.",(0231) 2600421 - 24
+"Shree Datta Shetkari S.S.K. Ltd., Shirol, Maharashtra",Shirol,"Shirol, PO. Dattanagar, Teh. Shirol.",(02322) 236551 to 56
+"Dalmia Bharat Sugar Industries Ltd, Asurle, Maharashtra","Shri Datta, Asurle-Porle","PO. Asurle- Porle Tarf Thane, Teh. Panhala",(02328) 236115
+"Deshbhakta Ratnappanna Kumbhar Panchganga S.S.K. Ltd. (Lease Unit Shree Renuka Sugars Ltd.), Ichalkaranji, Maharashtra",Ichalkaranji,"Ganganagar - Ichalkaranji, Teh. Hatkanangle,",(0230) 2441777 to 80.
+"Shree Dudhganga Vedganga S.S.K. Ltd., Bidri, Maharashtra",Bidri,"Bidri (Mouninagar), Teh. Kagal.",(02325) 254922 to 26
+"Eco Cane Sugar Energy Ltd., Mhalunge, Maharashtra",Mhalunge,"Mhalunge (Khalsa), Gat No.76, PO. Mhalunge, Teh. Chandgad.",(0831) 2533955
+"Shri Gurudatt Sugars Ltd., Takaliwadi, Maharashtra",Takaliwadi,"No 61/A, Takaliwadi, Taluka - Shirol, Kolhapur 416108",(0231) 2686086
+"Olam Agro India Pvt. Ltd., Chandgad, Maharashtra",Hemarus,"Gat No. 76, Channehatti - Rajgoli (Kh.), Teh. Chandgad",--
+"Athani Sugars Ltd., Bhudagd Unit, Tambale, Maharashtra",Tambale,"Anturli-Tambale, Tal. Bhudargad. Dist. Kolhapur",(0231) 2527600 Head Office- (08339) 280100
+"Jawahar Shetkari Sahakari Sakhar Karkhana Ltd., Hupari, Maharashtra",Hupari,"Shri Kallappanna Awade Nagar, Hupari-Yalgud, Teh. Hatkanangale",(0230) 2450402
+"Kumbhi-Kasari S.S.K. Ltd., Kuditre, Maharashtra",Kumbhi Kasari,"Kuditre, Tel. Karveer. Dist Kolhapur",(0231) 2444222 to 26.
+"Pad. Dr. D.Y. Patil S.S.K. Ltd., Gaganbawda, Maharashtra",Gagan,"Dyanshantinagar, Vesaraf-Palasambe, PO. Asalaj, Teh. Gaganbawda",(02326) 223101 to 03
+"Sadashivrao Mandlik Kagal Taluka S.S.K. Ltd., Kagal, Maharashtra",Hamidwada,"Sadashivnagar, Hamidwada-Kaulage, Teh.Kagal",(02325) 223110 to 15
+"Sarsenapati Santaji Ghorpade Sugar Factory Ltd., Belewadi-Kalamma, Maharashtra",SARSENAPATI,"Belewadi-Kalamma, Teh. Kagal.",N.A.
+"Sharad Sahakari Sakhar Karkhana Ltd., Narande, Maharashtra",Sharad,"Shamraoji Patil Yadravkar Nagar, Tal. Hatkanangale",N.A.
+"Athani Sugars Ltd., (Unit - 2) (Udaysingrao Gaikwad S.S.K. Ltd.), Sonwade Bambwade, Maharashtra",Sonwade,"Sonwade Bambwade, Teh. Shahuwadi","(0231) 2685821, 822, Head Office- (08339) 280100"
+"Shri Tatyasaheb Kore Warana S.S.K. Ltd., Warnanagar, Maharashtra",Warana,"Warananagar, Teh. Panhala.","(02328) 224081, 224082"
+"Reliable Sugar and Distillery Power Limited, Kolhapur, Maharashtra",Reliable Sugar,"At. Farale, Post. Panori, Tal. Radhanagari, Dist. Kolhapur",N.A.
+"Cane Agro Energy (India) Ltd., Raigaon, Maharashtra",Raigaon,"At. Raigaon, PO. Hingangaon (Bk.), Teh. Kadegaon, Dist. Sangli",N.A.
+"Krantiagrani Dr. G.D. Bapu Lad Sahakari Sakhar Karkhana Ltd., Kundal, Maharashtra",Kundal,"Kundal, Teh. Palus","(02346) 271601, 272076, 272077"
+"Ganpati Agro Products (Tasgaon Sakhar Karkhana), Turchi, Maharashtra",Tasgaon,"Turchi, Tal. Tasgaon","(02346) 271601, 272076, 272077"
+"Shri Mahankali S.S.K. Ltd., Rajarambapunagar, Maharashtra",Mahankali,"Rajarambapunagar, Teh. Kavathemahankal.",N.A.
+"Manganga Sahakari Sakhar Karkhana Ltd., Sonarsidhnagar, Maharashtra",Atpadi,"Sonarsidhnagar, Tal. Atpadi",N.A.
+"Mohanrao Shinde Sahakari Sakhar Karakhana Ltd., Mohannagar, Arag, Maharashtra",Mohannagar,"Mohannagar, Post. Arag, Tal. Miraj",(0233) 2264853
+"Padambhushan Krantiveer Dr. Nagnathanna Naikwadi Hutatma Kisan Ahir S.S.K. Ltd., Nagnathanna Nagar., Maharashtra",Hutatma,"Nagnathanna Nagar, Walwe, Teh. Walwe","(02342) 267538, 41"
+"Rajarambapu Patil Sahakari Sakhar Karkhana Ltd. (Unit - 1), Sakharale, Maharashtra",Walwa,"PO. Sakharale, Tel.. Walwa Dist- Sangli",(02342) 220862 to 65
+"Rajarambapu Patil Sahakari Sakhar Karkhana Ltd., (Unit - 2), Tal. Walwa, Maharashtra",Rajaram,"Wategaon-Surul, Tal- Walwa, Dist. Sangli 415 410",N.A.
+"Rajarambapu Patil Sahakari Sakhar Karkhana Ltd. (Unit - 3), Karandwadi, Maharashtra",Karandwadi,"Karandwadi, Tal. Walwa","(02342) 248780, 248785"
+"Rajarambapu Patil Sahakari Sakhar Karkhana Ltd. (Unit - 4), Tippehalli, Maharashtra",Tippehalli- Jat,"Tippehalli, Tal. Jat",(02342) 220862 to 65
+"Sadguru Sri Sri Sakhar Karkhana Ltd., Rajewadi, Maharashtra",Sri Sri Sugar,"Sri Sri Nagar, Rajewadi, PO.- Lingiware, Tal. Atpadi",(020) 24223734
+"Dr. Patangrao Kadam Sonhira Sahakari Sakhar Karkhana Ltd., Kadegaon, Maharashtra",Wangi,"Mohanrao Kadamnagar, Wangi, Tal. Kadegaon",N.A.
+"Udgiri Sugar and Power Ltd., Bamani (Pare), Maharashtra",Udagiri,"A/p. Bamani (Pare), Teh. Khanapur",(02347) 273700
+"Vishwasrao Naik Sahakari Sakhar Karkhana Ltd., Chikhali, Maharashtra",Vishwas Sugar,"Yashwantnagar, PO. Chikhali, Taluka - Shirala , Dist - Sangli,","(02345) 272138, 231002, 03"
+"Yashwant Sugar and Power Pvt. Ltd. (Formerly Known As Yashwant S.S.K. Ltd.,), Nagewadi, Maharashtra",Nagewadi,"A/p. Nagewadi, Tal. Khanapur",(02347) 260201 to 04
+"Ajinkyatara Sahakari Sakhar Karkhana Ltd., Shendre, Maharashtra",Shendre,"Shahunagar Shendre, Teh. Satara","(02162) 279266 to 68,279166 to 68"
+"Green Power Sugars Ltd., Gopuj, Maharashtra",Gopuj,"A/p. Gopuj, Tal. Khatav",7721086555
+"Athani Sugars Ltd., (Rayat Unit ), Shewalewadi (Mhasoli), Maharashtra",Shewalewadi,"Shewalewadi (Mhasoli), Tal. Karad",(02164) 257296-97
+"Jarandeshwar Sugar Mills Pvt. Ltd., Chimangaon, Maharashtra",Koregaon,"Chimangaon, Tal. Koregaon",N.A.
+"Jaywant Sugars Ltd., Dhawarwadi-Marali, Maharashtra",Jaywant,"Dhawarwadi, Tal. Karad",8007311233
+"Kisanveer Satara Sahakari Sakhar Karkhana Ltd., Bhuinj, Maharashtra",Bhuinj,"Bhuinj, PO. Kisanveernagar","(02167) 281240, 43"
+"Loknete Balasaheb Desai Sahakari Sakhar Karkhana Ltd., Daulatnagar (Marali), Maharashtra",Marali,"A/p. Daulatnagar (Marali), Tal. Patan,Dist-Satara","(02372) 268025, 26, 39"
+"Swaraj India Agro Ltd., (Formerly Loknete Hindurao Naik Nimbalkar), Upalave, Maharashtra",Swaraj India,"A/p. Upalave, Tel. Phaltan, Dist.- Satara",(02166) 262164
+"Shri Dutt India Pvt.Ltd., (New Phaltan Sugar Works Ltd.), Sakharwadi, Maharashtra",Phaltan,"Sakharwadi, Tal. Phaltan",N.A.
+"Kisanveer-Pratapgad Sakhar Udyog, Songaon-Karandoshi, Maharashtra",Songaon,"Songaon-Karandoshi, Tal. Javli","(02167) 281241, 242, 281143"
+"Sahyadri Sahakari Sakhar Karkhana Ltd., Yashwantnagar, Maharashtra",Sahyadri,"Yashwantnagar, Tal. Karad","(02164)  252097, 252898"
+"Sharyu Agro Ind. Ltd., Kapshi., Maharashtra",Sharyu Agro,"At. Motewadi, PO. Kapshi, Teh. Phaltan.","7030932791, 92"
+"Shriram-Jawahar Shetkari Sahakari Sakhar Udyog Ltd. (Joint Venture), Phaltan, Maharashtra",Shriram,"Phaltan, Tal. Phaltan","(02166) 222223, 24"
+"Yashwantrao Mohite Krishna S.S.K. Ltd. Rethare Budruk., Rethare Budruk, Maharashtra",Krishna,"Rethare Budruk, P.O. Shivnagar, Teh. Karad",(02164) 266222 to 25 / 9075061222 / 9075071222
+"Agasti Sahakari Sakhar Karkhana Ltd., Akole, Maharashtra",Agasti,"Agastinagar, Tal. Akole",(02424) 297126
+"Ashok Sahakari Sakhar Karkhana Ltd., Ashoknagar, Maharashtra",Ashoknagar,"Ashoknagar, PO. Karegaon Factory, Tal. Shrirampur","(02422) 246491, 246492"
+"Dr. Baburao Bapuji Tanpure Sahakari Sakhar Karkhana Ltd., Rahuri, Maharashtra",Rahuri,"Shri Shivajinagar, A/p. Rahuri Factory, Tal. Rahuri",(02426) 251451
+"SahakarMaharshi Bhausaheb Thorat Sahakari Sakhar Karkhana Ltd., Sangamner, Maharashtra",Sangamner,"Amrutnagar, PO. Sangamner Sakhar Karkhana, Tal. Sangamner","(02425) 225399, 225370, 225457, 229200"
+"Loknete Marutrao Ghule Patil Dnyaneshwar Sahakari Sakhar Karkhana Ltd., Newasa, Maharashtra",Bhende,"Dnyaneshwarnagar, PO. Bhende Bk., Tal. Newasa",(02427) 255525 to 28
+"Pd. Dr.Vitthalrao Vikhe Patil S.S.K. Ltd. (Shree Ganesh Unit), Rahata, Maharashtra",Ganeshnagar,"(Leasse Vitthalrao Vikhe-Patil S.S.K. Ltd., Pravaranagar) Ganeshnagar, PO. Ranjangaon Khurd, Tal. Rahata","(02423) 241261, 62, 64, 65"
+"Gangamai Industries and Constructions Ltd., Shevgaon, Maharashtra",Gangamai,"Harinagar, Najik Babhulgaon, PO. Rakshi, Tal. Shevgaon","(02429) 217309, 217251, 55,"
+"Shri Ambalika Sugars Pvt. Ltd., Ambikanagar  (Baradgaon sudrik), Maharashtra",Jagdamba,"PO. Jagdamba Factory, Ambikanagar, Tal. Karjat",02489231000
+"Jaishriram Sugar and Agro Products Ltd., Jamkhed, Maharashtra",Jaishriram,"Halgaon, Tal. Jamkhed",-
+"Karmaveer Shankarrao Kale Sahakari Sakhar Karkhana Ltd. Gautamnagar, Kopargaon, Maharashtra",Kopargaon,"At. Gautamnagar, PO : Kolpewadi, Tal. Kopargaon, Dist. Ahmednagar",(02423) 261210 to 261215
+"Karmayogi Kundlikrao Ramrao Jagtap Patil Kukadi Sahakari Sakhar Karkhana Ltd., Pimpalgaon Pisa, Maharashtra",Pimpalgaon,"Pimpalgaon Pisa, Tal. Shrigonda",-
+"Mula Sahakari Sakhar Karkhana Ltd., Sonai, Maharashtra",Sonai,"Sonai, PO. Sonai, Tal. Newasa, Dist- Ahmednagar.",-
+"Piyush Sugar and Power Pvt. Ltd., Walaki, Maharashtra",Walaki,"Walaki, Po. Deulgaon- Siddhi",N.A.
+"Prasad Sugar and Allied Agro Products Ltd., Vambori, Maharashtra",Vambori,"Gut No. 912 to 915, Sade-Wambori Road, Vambori, Tal. Rahuri",N.A.
+"Shri Saikrupa Sugar Allied Industries Ltd., Devdaithan, Maharashtra",Saikripa,"Devdaithan, Tal. Shrigonda",N.A.
+"Shri Saikrupa Sugar and Allied Industries Ltd., Hiradgaon, Maharashtra",Hiradgaon,"Hiradgaon Unit, A/P. Hiradgaon, Tal. Shrigonda",-
+"Sahakar Maharshi Shankarrao Kolhe S.S.K. Ltd., Shinganapur, Maharashtra",Sanjivani,"Sahajanandnagar, PO. Shinganapur, Tal. Kopargaon",(02423) 224120 to 25
+"Sahakar Maharshi Shivajirao Narayanrao Nagawade Sahkari Sakhar Karkhana Ltd., Shrigonda, Maharashtra",Shrigonda,"A/p. Shrigonda Factory, Tal. Shrigonda Dist. Ahmednagar Pin.413726","(02487) 252220, 22, 42"
+"Padmashri Dr. Vitthalrao Vikhe Patil S.S.K. Ltd., Rahata, Maharashtra",Pravaranagar,"A P- Loni, Pravaranagar, Tal. Rahata",(02422) 252301 - 04
+"Shri Vridheshwar Sahakari Sakhar Karkhana Ltd., Pathardi, Maharashtra",Vridheshwar,"Adinathnagar, Tal. Pathardi","(02428) 245042, 245066, 245142"
+"Armstrong Infrastructure Pvt. Ltd., Malegaon, Maharashtra",Girna,"A.p. Dabhadi, Tal. Malegaon",-
+"Dwarkadhish Sakhar Karkhana Ltd., Satana, Maharashtra",Dwarkadhish,"Sheware, Tal. Satana, Dist. Nashik-423301 (M.S.)","(02555) 242368, 242468"
+"K.G.S. Sugar and Infra Corporation Ltd., Niphad, Maharashtra",KGS,"Vill. Pimpalgaon (Nipani), Tal. Niphad","(02550) 2338041, 2338741"
+"The Kadwa Sahakari Sakhar Karkhana Ltd. Rajaramnagar, Dindori, Maharashtra",Materewadi,"Materewadi, Rajaramnagar, PO. Materewadi, Tal-Dindori, Dist-Nashik",(02557) 237182 to 84
+"Karmaveer Kakasaheb Wagh S.S.K. Ltd., Niphad, Maharashtra",Karamveer,"(Leasse Chhatrapati Sambhaji Raje Sugar Factory Ltd., Aurangabad), Kakasahebnagar, Tal. Niphad",-
+"Nashik Sahakari Sakhar Karkhana Ltd., Palse, Maharashtra",Palse,"Palse, Shrisant Janardan Swami Nagar, PO. Palse","(0253) 2802142, 43, 2802091"
+"Niphad Sahakari Sakhar Karkhana Ltd., Pimplas, Maharashtra",Niphad,"Pimplas, PO. Bhausahebnagar, Tal. Niphad","(02550) 243523 to 25, 32"
+"S.J. Sugar Distillery and Power Pvt . Ltd., Ravalgaon, Maharashtra",Ravalgaon,"Ravalgaon, PO. Ravalgaon, Tal. Malegaon",--
+"D.V.P. Dharashiv (Unit-2) (Vasantraodada Patil Sahakari Sakhar Karkhana Ltd. ), Deola, Maharashtra",Vithewadi,"Vithewadi (Lohoner), Tal. Deola",09552555969
+"Anuraj Sugars Ltd., Yavat, Maharashtra",Anuraj,"A/p. Yavat, Tal. Daund",(020) 26914457
+"Baramati Agro Ltd. (Unit - 1), Indapur, Maharashtra",Shetphalgadhe,"Shetphalgadhe, Tal. Indapur  Dist- Pune","(02112) 663100, 229101"
+"Bhima Sahakari Sakhar Karkhana Ltd., Daund, Maharashtra",Patas,"Madhukarnagar-Patas, Tal. Daund",N.A.
+"Bhimashankar Sahakari Sakhar Karkhana Ltd., Ambegaon, Maharashtra",Ambegaon,"Dattatraynagar, PO.Pargaon Via Avasari Bk., Tal. Ambegaon, Dist. Pune",N.A.
+"Shri Chhatrapati Sahakari Sakhar Karkhana Ltd., Indapur, Maharashtra",Bhavaninagar,"Bhavaninagar, Tal. Indapur , Dist : Pune (413104)","(02118) 266231, 32, 86"
+"Daund Sugar Pvt. Ltd., Daund, Maharashtra",Alegaon,"A/p. Alegaon, Tal. Daund",9158005953
+"Karmayogi Shankarraoji Patil S.S.K. Ltd., Indapur, Maharashtra",Indapur,Mahatma Phulenagar (Bijwadi),9922991663
+"The Malegaon Sahakari Sakhar Karkhana Ltd., Baramati, Maharashtra",Malegaon,"Malegaon Bk., A/p. Shivnagar, Tal. Baramati","7447760009 , 9527400099"
+"Nira Bhima Sahakari Sakhar Karkhana Ltd. Shahajinagar, Tal -Indapur, Dist- Pune, Indapur, Maharashtra",Shahajinagar,"At. Shahajinagar, Po. Redani, Tal. Indapur Dist- Pune",9011272555
+"Rajgad Sahakari Sakhar Karkhana Ltd., Bhor, Maharashtra",Rajgad,"Anantnagar-Nigade, Tal. Bhor",N.A.
+"Raosahebdada Pawar Ghodganga Sahakari Sakhar Karkhana Ltd., Shirur, Maharashtra",Shirur,"Raosahebnagar, A/p. Nhavare, Tal. Shirur Dist.Pune",N.A.
+"Shri Sant Tukaram Sahakari Sakhar Karkhana Ltd., Pune, Maharashtra",Sant Tukaram,"Kasarsai-Darumbre, PO. Kasarsai, Tal. Mulshi, Diist.Pune.",9689509292/ 9423793955/ 56/ 57/ 9689759292
+"Shreenath Mhaskoba Sakhar Karkhana Ltd., Patethan, Maharashtra",Patethan,"At. Shreenathnagar, Patethan, Post. Rahu, Tal. Daund, Dist. Pune-412207",9923002924
+"Shri Someshwar Sahakari Sakhar Karkhana Ltd., Baramati, Maharashtra",Nira,"A/P: Someshwarnagar, Tal: Baramati, Dist: Pune",N.A.
+"Shri Vighnahar Sahakari Sakhar Karkhana Ltd., Junnar, Maharashtra",Junnar,"Junnar/Ambegaon, At. Nivruttinagar (Dhalewadi), PO Shiroli (BK), Tal. Junnar",8600005202
+"Venkateshkrupa Sugar Mills Ltd., Shirur, Maharashtra",Jategaon,"""Laxminagar"", Jategaon (BK)",N.A.
+"Shri Adinath Sahakari Sakhar Karkhana Ltd., Karmala, Maharashtra",Jeur,"Shelgaon-Bhalwani, Adinathnagar, PO. Jeur, Tal. Karmala",N.A.
+"Aryan Sugars Ltd., Barshi, Maharashtra",Aryan,"Dilipnagar, Khamgaon, Tal. Barshi",(02184) 204067
+"Babanraoji Shinde Sugar and Allied Industries Ltd., Barshi, Maharashtra",Turk Pimpri,"Gat No. 160, Turk Pimpri, Post. Malwandi, Tal. Barshi",9657552255
+"Bhairavnath Sugar Works Ltd., (Unit - II), Karmala, Maharashtra",Bhairavnath II,"Jaywantnagar, Vihal, Tal. Karmala",N.A.
+"Bhairavnath Sugar Works Ltd., (Unit - III), Mangalwedha, Maharashtra",Lavangi,"Lavangi, Tal. Mangalwedha",N.A.
+"Bhima Sahakari Sakhar Karkhana Ltd., Mohol, Maharashtra",Bhima,"Takali-Sikandar, Teh. Mohol",9011082001
+"Fabtech Sugars Ltd., Mangalwedha, Maharashtra",Fabtech,"Nandur (Balajinagar), Tal. Mangalwedha","(020) 30614500, 09"
+"Indreshwar Sugar Mills Ltd., Barshi, Maharashtra",Bhagwantnagar,"Bhagawantnagar, Upalai (Tho.), Tal. Barshi","(02184) 255377, 255399"
+"Jakraya Sugar Ltd., Mohol, Maharashtra",Jakraya,"Watwate, PO. Inchgaon, Teh. Mohol, Dist. Solapur",(02188) 221173
+"Jai Hind Sugar Pvt. Ltd, Aachegaon, Maharashtra",Achegaon,"Vill. Achegaon, Teh. South Solapur,",(0217) 2301111
+"Lokmangal Sugar Ethanol and Co-generation Industries Ltd., South Solapur, Maharashtra",Bhandarkavthe,"A/p. Bhandarkavthe, Teh. South Solapur","(0217) 2735518, 2735517"
+"Lokmangal Agro Industries Ltd., Subhash Nagar, A/p. Bibi Darphal, Maharashtra",Lokmangal,"PO. Subhashnagar, Bibi Dharphal, Tal. North Solapur",(0217) 2735517/18
+"Loknete Baburao Patil Agro Industries Limited, Mohol, Maharashtra",Laxminagar,"Laxminagar, Angar, Tal-Mohol",N.A.
+"Lokshakti Sugar and Allied Industries Ltd., Aurad, Maharashtra",Lokshakti,"A/p. Aurad (Mandrup), Tal. South Solapur",--
+"Shri Makai Sahakari Sakhar Karkhana Ltd., Karmala, Maharashtra",Bhilarwadi,"Bhilarwadi, PO. Jinti, Teh. Karmala",N.A.
+"Matoshri Laxmi Sugar Co-generation Industries Ltd., Akkalkot, Maharashtra",Matoshri Sugars,"Saatling nagar, At. Ruddewadi, PO. Dudhani, Tal. Akkalkot",9970707033
+"Shree Pandurang Sahakari Sakhar Karkhana Ltd., Malshiras, Maharashtra",Pandurang,"Shreepur, Teh. Malshiras","(02185) 255233, 255344, 55, 23"
+"Sahakar Shiromani Vasantrao Kale Sahakari Sakhar Karkhana Ltd., Pandharpur, Maharashtra",Bhalwani,"At.Chandrabhaganagar,Post-Bhalwani, Tal. Pandharpur, Dist-Solapur",N.A.
+"Sangola Taluka Sahakari Sakhar Karkhana Ltd., Sangola, Maharashtra",Sangola,"Waki (Shivane), Tal. Sangola",(02187) 243364
+"Shri Sant Damaji Sahakari Sakhar Karkhana Ltd., Mangalwedha, Maharashtra",Sant Damaji,"Mangalwedha, Teh. Mangalwedha",8308808633
+"Manas Agro Industries and Infrastructure Ltd., (Unit - 4), Tumsar, Maharashtra",Wainganga,"Devhada (Bk), Tal. Mohadi, Dist. Bhandara",--
+"The Saswad Mali Sugar Factory Ltd., Malinagar, Maharashtra",Malinagar,"A.P. Malinagar, Tal. Malshiras","(02185) 251133, 251202/ 03"
+"Shree Shankar Sahakari Sakhar Karkhana Ltd., Malshiras, Maharashtra",Sadashivnagar,"PO. Sadashivnagar, Tal. Malshiras",(02185) 271095
+"Sahakar Maharshi Shankarrao Mohite-Patil S.S.K. Ltd., Shankarnagar Akluj, Maharashtra",Akluj,"At. Shankarnagar-Akluj, PO. Yeshwantnagar, Teh. Malshiras","(02185) 222048, 222248"
+"Shetkari Sakhar Karkhana (Chandapuri) Ltd., Malshiras, Maharashtra",Chandapuri,"Chandapuri, Tal. Malshiras",N.A.
+"Vitthalrao Shinde SSK Ltd., (Unit- 2), Pandharpur, Maharashtra",Vijay Sugar,"Ratnapuri, Karkamb, Tal. Pandharpur","(02183) 233056,75,76,233500,11"
+"Bhairavnath Sugar Works Ltd., (Unit - IV), Madha, Maharashtra",Shankarratna,"Bhairavnath Sugar, At. Alegaon (Bk.), Po. Adhegaon, Tal. Madha",8552803803
+"Siddhanath Sugar Mills Ltd., Tal.North Solapur, Maharashtra",Tirhe,PO. Tirhe,"(0217) 2283722, 2283721"
+"Shree Siddheshwar S.S.K. Ltd., Tal.North Solapur, Maharashtra",Kumathe,"Kumathe, PO. Tikekarwadi","(0217) 2601541, 42,43"
+"Sitaram Maharaj Sakhar Karkhana (Khardi) Ltd., Khardi, Maharashtra",Khardi,"A/p. Khardi, Teh. Pandharpur, Dist. Solapur 413 317",N.A.
+"Swami Samarth Sahakari Sakhar Karkhana Ltd., Dahitane, Maharashtra",Akkalkot,Tal. Akkalkot,"(02181) 220428, 68"
+"Utopian Sugars Ltd., Pantnagar- Kacharewadi, Maharashtra",Utopian,"Pantnagar-Kacharewadi, Teh. Mangalwedha, Dist.-Solapur",N.A.
+"Shri Vitthal Sahakari Sakhar Karkhana Ltd., PO. Gursale, Maharashtra",Gursale,"Venunagar, PO. Gursale, Teh. Pandharpur",(02186) 249535
+"Vitthal Corporation Ltd., PO. Mhaisgaon, Maharashtra",Mhaisgaon,"Vitthalrao Shinde Nagar, PO. Mhaisgaon, Teh. Madha",N.A.
+"Vitthalrao Shinde Sahakari Sakhar Karkhana Ltd., PO. Pimpalner, Maharashtra",Pimpalner,"A/p. Gangamainagar, Tal.Madha","(02183) 233056, 233075, 76, 233500, 233511"
+"Baramati Agro Ltd. (Unit - 2), Kannad, Maharashtra",Kannad,Mahatma phulenagar,N.A.
+"Mukteshwar Sugar Mills Ltd., Shendurwada, Maharashtra",Dhamori,"Dhamori (BK.), PO. Shendurwada, Tal. Gangapur",--
+"Chhatrapati Sambhaji Raje Sakhar Udyog Ltd., Dindayalnagar, Maharashtra",Dindayalnagar,"Dindayalnagar, PO. Chittepimpalgaon",N.A.
+"Siddheshwar Sahakari Sakhar Karkhana Ltd., Maniknagar, Maharashtra",Sillod,"Maniknagar, Teh. Sillod",(02430) 230276
+"Sachin Ghayal Sugar Pvt Ltd. (Lease Unit Shree Sant Eknath S.S.K Ltd.), Paithan, Maharashtra",PAITHAN,"Eknathnagar, Tal.-  Paithan, Dist.- Aurangabad",-
+"Chhatrapati Sahakari Sakhar Karkhana Ltd., Sawargaon, Maharashtra",Sonajinagar,"Sonajinagar, Sawargaon, Po. Mangrul, Teh. Majalgaon",-
+"Shri Gajanan Sahakari Sakhar Karkhana Ltd., Rajuri(N), Maharashtra",Gajanan,"Sonajinagar, Rajuri (N)",(02442) 255541
+"Jai Bhavani Sahakari Sakhar Karkhana Ltd., Georai, Maharashtra",Georai,"Shivajinagar, Tal. Georai Dist. Beed",-
+"Mahesh Sahakari Sakhar Karkhana Ltd., Ashti, Maharashtra",Kada,"PO. Kadasakhar, Tal. Ashti",(02441) 235875
+"Loknete Sundarraoji Solanke Sahakari Sakhar Karkhana Ltd., Majalgaon, Maharashtra",Majalgaon,"Sundarnagar, PO. Telgaon (Bk.), Teh. Dharur",N.A.
+"NSL Sugars Limited, (Unit-3) (Jay Mahesh), Majalgaon, Maharashtra",Pawarwadi,"Pawarwadi, Teh. Majalgaon",-
+"Vaidyanath Sahakari Sakhar Karkhana Ltd., Pangri, Maharashtra",Pangri,"Pangri, Tal. Parli-Vaijnath",-
+"Yedeshwari Agro Products Ltd., Kej, Maharashtra",Yedeshwari Sugar,"Pawansoot Nagar, Anandgaon (Sarani), Post. Jawalban, Tel. Kej Dist. Beed",(02445) 251316
+"Natural Growers Pvt. Ltd. Adani Group, Lakhandur (Kinhal), Maharashtra",N.A.,"Mini Industrial Area, Plot No.B-1,Gat No. 282, Lakhandur MIDC, Vill. Lakhandur, (Kinhal), Teh . Lakhandur",(07181) 202727
+"Bhaurao Chavan Sahakari Sakhar Karkhana Ltd. (Unit- 2), Dongarkada, Maharashtra",Dongarkada,"Shivajinagar, Dongarkada, Tal. Kalmanuri","9881198799, 9881177699"
+"Purna Sahakari Sakhar Karkhana Ltd., Basmatnagar, Maharashtra",Basmatnagar,Basmatnagar,7719041222
+"Purna Sahakari Sakhar Karkhana Ltd. (Unit No. 2), Aundha (Nagnath), Maharashtra",Jawalabazar,"Barashiv Hanuman Nagar, Jawala Bazar",9922751454
+"Chopda Shetkari Sahakari Sakhar Karkhana Ltd. (Participatory Basis with Shrushti Sugar Pvt.Ltd., PUne), Teh.Chopda, Maharashtra",Chopda,"Dhondu aappa nagar, Chahardi",-
+"Madhukar Sahakari Sakhar Karkhana Ltd., Teh.Yawal, Maharashtra",Faizpur,"Jivaramnagar, Nhavi Marg, Faizpur",-
+"Sant Muktai Sugar and Energy Ltd., Tal. Muktainagar, Maharashtra",Ghodasgaon,Ghodasgaon,-
+"Shree Rameshwar Sahakari Sakhar Karkhana Ltd., Bhokardan, Maharashtra",Sipora Bazar,"Raosahebnagar, PO. Sipora (Bazar)",9422216485
+"Karmyogi Ankushrao Tope Samarth Sahakari Sakhar Karkhana Ltd. Unit No.2 (Sagar) Tirthpuri, Ghansawangi, Maharashtra",Tirthpuri,"At. Post. Tirthpuri, Teh. Ghansawangi, Dist. Jalna.",8805012123
+"Karmayogi Ankushrao Tope Samarth Sahakari Sakhar Karkhana Ltd., Ankushnagar, Teh. Ambad, Maharashtra","""SAMARTH""","At. Ankushnagar,
+Post. Ankushnagar",N.A.
+"Samruddhi Sugars Ltd., Teh. Ghansawangi, Maharashtra",Samruddhi,"Renukanagar, Devidehgaon",(0240) 6558966
+"Shraddha Energy Infra Projects Pvt. Ltd., (Unit-1),(Formerly Maa Bageshwari), Partur, Maharashtra",Partur,"Warphal, Teh. Partur",(020) 25535711/12
+"Jagruti Sugar Allied Industries Ltd., Devni, Maharashtra",Talegaon,"Talegaon (Bho.), Teh. Devni.","(02382) 241245, 44"
+"Vikasratna Vilasrao Deshmukh Manjara Shetkari Sahakari Sakhar Karkhana Ltd., Latur, Maharashtra",Manjara,"Vilasnagar, Teh. &Dist. Latur.",(02382) 267472 to 74
+"Pannageshwar Sugar Mills Ltd, Renapur, Maharashtra",Pangaon,"A/P. Pangaon, Teh. Renapur",(02382) 236043
+"Vilas Sahakari Sakhar Karkhana Ltd., Unit - II, Tondar, Maharashtra",Aravindnagar,"Tondar, Teh. Udgir",N.A.
+"Rena Sahakari Sakhar Karkhana Ltd., Renapur, Maharashtra",Niwada,"Dilipnagar, PO. Shindhagaon, Niwada, Teh. Renapur.","9561214301, 9168599900"
+"Shri Saibaba Sugars Ltd., Tal. Ausa, Maharashtra",Shivni,Shivni (Bk),N.A.
+"Shri Sant Shiromani Maruti Maharaj Sahakari Sakhar Karkhana Ltd., Tal. Ausa, Maharashtra",Maulinagar,"Maulinagar,  Belkund",(02383) 221316
+"Shetkari Sahakari Sakhar Karkhana Ltd., Tal. Ausa, Maharashtra",Killari,"Swami Ramanand Tirthnagar, Killari","(02475) 256254, 55, 58"
+"Siddhi Sugar and Allied Industries Pvt. Ltd., Ahmedpur, Maharashtra",Ujana,"Maheshnagar,  Uajna, PO. Gangahipparga",(02381) 262255
+"Vilas Sahakari Sakhar Karkhana Ltd., Tal.Latur, Maharashtra",Nivali,"Vaishalinagar, Nivali","(02382) 277632, 277630, 277622"
+"Manas Agro Industries and Infrastructure Ltd. (Unit - 1), Bela, Tal. Umred, Maharashtra",Bela,Khursapar (Bela),"(0712) 2557474, 2557575"
+"Venkateshwara Power Project Ltd. (Unit- 2) Sugar Factory, Mouda, Maharashtra",Mauda,"Narendranagar (Babdev), PO.Babdeo, Tah Mouda Dist Nagpur",9545447000
+"Bhaurao Chavan Sahakari Sakhar Karkhana Ltd., Ardhapur, Maharashtra",Mundkhed,"Laxminagar, Degaon-Yelegaon, Tal. Ardhapur","9881198799, 9881177699"
+"M.V.K. Agro Food Product (Bhaurao Chavan), Umari, Maharashtra",Golegaon,"Kusumnagar, Waghalwada, Tal. Umari",--
+"Shri Subhash Sugar Pvt.Ltd., Hadgaon, Maharashtra",Suryanagar,"Hadsani, Tal. Hadgaon",9822015609
+"Dharani Sugars and Chemicals Ltd. (Unit- 3), Villupuram, Tamil Nadu",Kalayanallur,"Kalayanallur Village, Pallagacherry Post, Sankarapuram Taluk",04151248206
+"Adiwasi Sahakari Sakhar Karkhana Ltd., Tal. Navapur, Maharashtra",Dokare,"Surupsingh Naik Nagar, Dokare",-
+"Shree Satpuda Tapi Parisar Sahakari Sakhar Karkhana Ltd., Shahada, Maharashtra",Satpuda,A.P. Purushottamnagar,-
+"Dr. Babasaheb Ambedkar Sahakari Sakhar Karkhana Ltd., Tal. Osmanabad, Maharashtra",Keshegaon,"Arvindnagar, PO. BAMNI",(02472) 224200
+"Bhairavnath Sugar Works Ltd., (Unit - I), Teh. Paranda, Maharashtra",Sonari,"Shivajinagar, Sonari",--
+"Bhimashankar Sugar Mills Ltd., Tal. Vashi, Maharashtra",Pargaon,"Vasantnagar, PO. Pargaon",9921060808
+"Sheela Atul Sugar Tech. Pvt.Ltd., (Lease Jai Laxmi Sugar Pvt.Ltd.), Osmanabad, Maharashtra",N.A.,Nitali,08888160004
+"Kancheshwar Sugar Ltd., Tal. Tuljapur, Maharashtra",Kancheshwar,PO. Mangrul,N.A.
+"Natural Sugar and Allied Industries Ltd., Tal. Kalamb, Maharashtra",Ranjani,"Unit No. 1, Sainagar, Ranjani","02473 265700, 600, Mob. 7588877555"
+"D.D.N.S.F.A. Ltd. (Unit- 2), Tal. Kalamb, Maharashtra",Hawargaon,Lt.Dr.Chandrakaladevi Nagar Hawargaon,N.A.
+"Bhairavnath Sugar Works Ltd., (Unit - V), Washi, Maharashtra",Washi,"Kai Bhai Uddhavrao Patil Nagar, Washi (Tandulwadi) Tal Washi Dist Osmanabad",(020) 24317389
+"Shri Vitthalsai Sahakari Sakhar Karkhana Ltd., Tal. Omerga, Maharashtra",Murum,"Rajiv Gandhi Nagar, Murum",N.A.
+"Lokmangal Mauli Industries Ltd., Tal. Lohara, Maharashtra",Lohara,Lohara (Bk.),(0217) 2735517
+"Gangakhed Sugar And Energy Ltd., Tal. Gangakhed, Maharashtra",Makhani,"Vijaynagar A/p. Makhani,",-
+"Baliraja Sakhar Karkhana Ltd., Kanadkhed, Maharashtra",Baliraja-Purna,"Kanadkhed, Tal. Purna Dist. Parbhani",7030908519/02
+"Shree Renuka Sugars Ltd., Tal. Pathri, Maharashtra",Pathri,Pathri,N.A
+"Yogeshwari Sugar Industries Pvt. Ltd., Tal. Pathri, Maharashtra",Yogeshwari,"Laxminagar,Po. Limba Ta.Pathri Dist.Parbhani",(02451) 261527
+"Maharashtra Shetkari Sugar Ltd., Sonpeth, Maharashtra",Mahasugar,"Shri Uttamnagar, Saikheda Devinagar-Tanda",(02453) 260001 to 11
+"Manas Agro Industries and Infrastructure Ltd., (Unit - 3), Tal. Seloo, Maharashtra",Jamni,"Dinkarnagar, Jamni","(0712) 2557474, 2557575"
+"Deccan Sugar Pvt. Ltd., Mangrul, Maharashtra",Mangrul,Deorao Patil Nagar,(07232) 242170
+"Natural Sugar and Allied Industries Ltd., Unit- 2, (Sudhakarrao Naik Sahakari Sakhar Karkhana Ltd), Tal. Mahagaon, Maharashtra",Chikali,Village Gunj Savana,8669947900
+"Vasant Sahakari Sakhar Karkhana Ltd., Tal. Umarkhed, Maharashtra",Pusad,"Pusad, Vasantnagar, PO. Pophali,",N.A.
+"Shrikrishna Khandsari Sugar Mills, Tal. Taloda, Maharashtra",N.A.,"Akklakuwa Road, Taloda","(02567) 232241, 232370,"
+"Tokai Sahakari Sakhar Karkhana Ltd., Teh-Basmatnagar, Maharashtra",KURUNDA,Kurunda,"9130018893, 9130018892"
+"Aayan Multitrade L.L.P., (Lease Banganga Sahakari Sakhar Karkhana Ltd.), Tal. Bhum, Maharashtra",Banganga,Eda-Javala,N.A.
+"Danteshwari Maiya Sahakari Shakkar Karkhana Maryadit, Balod, Chhattisgarh",Danteshwari,"Vill. Karkabhat, PO. Sorar.",(07744) 212201
+"Bhoramdeo Sahakari Shakkar Utpadak Karkhana Maryadit, Kawardha, Chhattisgarh",Bhoramdeo,"Ramhepur, Kawardha.",(07740) 252202
+"Maa Mahamaya Sahakari Shakkar Karkhana Maryadit. Ambikapur, Ambikapur, Chhattisgarh",Ambikapur,"Village-Kerta, PO. Khadgawakala. Tahsil-Pratappur Dist.-Surajpur (C.G.) 497223",9753264393
+"Sanjivani Sahakari Sakhar Karkhana Ltd., Tiska, Goa",Tiska,"At. Dayanandnagar, PO. Tiska.",(0832) 2344206
+"The Palwal Co-Op. Sugar Mills Ltd., Palwal, Haryana",Palwal,"Near Vill. Bamnikhera, Palwal",(01275) 297425
+"Naraingarh Sugar Mills Ltd., Naraingarh, Haryana",Naraingarh,"Village Banondi, PO. Shahzadpur, Tehsil Naraingarh","(01734) 277388, 277213"
+"The Karnal Co-Op. Sugar Mills Ltd., Karnal, Haryana",Sugar Factory,"3 KM Stone Meerut Road, Karnal","(0184) 2283167,2285465"
+"The Kaithal Co-op. Sugar Mills Ltd., Narar, Haryana",Kaithal,"Kaithal-Karnal Road, Vill. Narar","(01746) 235456, 234256"
+"The Meham Co-Op. Sugar Mills Ltd., Meham, Haryana",Meham,"Meham, NH- 10",9992333930
+"The Jind Co-Op. Sugar Mills Ltd., Jind, Haryana",Jind,"jind ,Village & PO. Janjh Kalan, Narwana Road","(01681) 233353, 233331"
+"The Sonipat Co-op. Sugar Mills Ltd., Sonipat, Haryana",Sonipat,Sonipat,"(0130) 6450396, 6450523"
+"Hafed Sugar Mills, Vill. Phaphrana, Haryana",Phaphrana,"(A unit of The Haryana State Co-op. Supply & Marketing Federation Ltd.), Assandh, Vill. Phaphrana, Teh. Assandh","(01749) 201263, 201030"
+"The Panipat Co-Op. Sugar Mills Ltd., Panipat, Haryana",Panipat,"Gohana Road, PO. Panipat",(0180) 2651184
+"Chaudhary Devilal Co op. Sugar Mills Ltd., Ahulana, Haryana",Gohana,"PO. Ahulana, Teh. Gohana","(01263) 269244, 269172"
+"Saraswati Sugar Mills Ltd., Yamunanagar, Haryana",Yamunanagar,"Radaur Road,","(01732) 307501, 03, 79"
+"Piccadily Agro Industries Ltd., Bhadson, Haryana",Bhadson,"Indri-Umri Road, Vill. & PO. Bhadson, Teh. Indri","(01744) 271653, 271859"
+"The Shahabad Co-Op. Sugar Mills Ltd., Shahabad(M), Haryana",Shahabad,Ladwa Road,"(01744) 240188, 240118"
+"The Haryana Co-Op. Sugar Mills Ltd., Rohtak, Haryana",Rohtak,Vill. Anandpur Bhali,(01258) 250800
+"Bilagi Sugar Mill Ltd, Badagandi, Karnataka",Badagandi,"Badagandi (Vill.), Teh. Bilagi",N.A.
+"GEM Sugars Ltd, Teh. Bilagi, Karnataka",Gem Sugar,Vill. Kundaragi,N.A.
+"Godavari Biorefineries Ltd, Teh. Mudhol, Karnataka",Sameerwadi,A/p.- Sameerwadi,(08350) 260046 to 48
+"Indian Cane Power Ltd., Teh. Mudhol, Karnataka",Uttur,Vill. Uttur,N.A
+"Jamkhandi Sugars Ltd., Tal. Jamkhandi, Karnataka",Jamkhandi,"At. Hirepadasalagi, PO. Naganur","(08353) 254162, 63"
+"Nirani Sugars Limited, Mudhol, Karnataka",Mudhol,"# 166, Kulali Cross, Jamkhandi Road, Mudhol - 587313",N.A.
+"Shri Prabhulingeshwar Sugars and Chemicals Ltd, Teh. Jamkhandi, Karnataka",Siddapur,A/p. Siddapur,"(08353) 238004, 238200"
+"Ryatar Sahakari Sakkare Karkhane Niyamit, Teh. Mudhol, Karnataka",Rannanagar,"Rannanagar, Timmapur",N.A.
+"E.I.D. Parry (India) Ltd., Bagalkot, Karnataka",Sadashiva,"NH-50, Nagaral Post, Nainegali, Teh. & Dist. Bagalkot 587 207",N.A.
+"Athani Sugars Ltd., Teh. Athani, Karnataka",Madhbhavi,"Vishnuanna Nagar, PO. Navalihal, Taluka: Athani, Dist: Belagavi, Karnataka. 591234.",(08339) 280100 to 102
+"Chidanand Basavprabhu Kore Sahakari Sakhar Karkhana Niyamit (Shree Doodhaganga Krishna S.S.K. Niyamit), Chikodi, Karnataka",Chikodi,"Shantappanna Miraji Nagar, Chikodi, Dist. Belagavi 591 247",(08338) 257200
+"Om Sugars Ltd., Teh. Chikodi, Karnataka",Om Sugars,"Sy.No. 2, PO. Jainapur",N.A.
+"The Ghataprabha Sahakari Sakkare Karkhane Niyamit, Teh. Gokak, Karnataka",Gokak,Gokak,N.A
+"Shree Halasidhanath Sahakari Sakhar Karkhana Ltd, Teh. Chikodi, Karnataka",Nipani,"Shankaranandnagar, Nipani","(08338) 220355, 222090"
+"Shri Hiranyakeshi Sahakari Sakkare Karkhane Niyamit, Belagavi, Karnataka",Sankeshwar,Sankeshwar,(08333) 251001
+"The Krishna Sahakari Sakkare Karkhane Niyamit, Teh. Athani, Karnataka",Athani,"PO. Sankonatti,Taluk- Athani
+Dist: Belagavi
+Karnataka",(08289) 255000
+"Laila Sugars Pvt.Ltd, Teh. Khanapur, Karnataka",Kupatgiri,Vill. Kupatgiri,N.A.
+"Shri Malaprabha S.S.K. Niyamit, Teh. Bailhongal, Karnataka",Malaprabha,"Mugutkhan, Hubli",N.A.
+"E.I.D. Parry (India) Ltd, Teh. Ramdurg, Karnataka",Khanpet,"(Lesse of Dhanalaxmi S.S.K. niyamit Khanpeth), A/P. Khanpet",
+"Shree Renuka Sugars Ltd, Teh. Saundatti, Karnataka",Manoli,"367/1, Vill. Manoli",(08330) 278700/01 to 08
+"Shree Renuka Sugars Ltd., (Unit - 4), Teh. Athani, Karnataka",Burlatti,"R.S. 377/1, Burlatti, PO. Kokatnur","(08289) 230308, 309"
+"Gokak Sugars Ltd, Teh. Gokak, Karnataka",Kolavi,Kolavi,
+"Shree Renuka Sugars Ltd.,(Unit -3), Teh. Raibag, Karnataka",Raibag,"(Leased Unit of Raibag Co-op. Sugar Factory) At. Bavachi, Po. Mekhali",(08331) 270800
+"Satish Sugars Ltd, Teh. Gokak, Karnataka",Hunshyal P.G,"Sangankeri - Yadwad Road, Hunashyal P.G",(08332) 221100
+"Shivshakti Sugars Ltd.,, Tal. Raibag, Karnataka",Soundatti,Vill. Soundatti,N.A.
+"Shri Shivsagar Sugar Agro Products Ltd, Teh. Ramdurg, Karnataka",Shivsagar Sugar,A/p. Udapudi,(08335) 273400
+"Shiraguppi Sugar Works Ltd, Teh. Athani, Karnataka",Kagwad,Vill. Kagwad,N.A.
+"Shree Someshwar Sahakari Sakkare Karkhane Niyamit, Teh. Bailhongal, Karnataka",Siddasamudra,"Bailhongal, Site At Siddasamudra, Post: Belawadi Taluka: Bailhongal Dist: Belagavi Karnataka State",N.A.
+"The Ugar Sugar Works Ltd., Teh. Athani, Karnataka",Ugarkhurd,Ugar Khurd,(08339) 274000
+"Venkateshwara Power Project Ltd, Teh. Chikodi, Karnataka",Venkateshwara,A/p. Bedakihal,Ph.- (08338) 257001
+"Vishwaraj Sugar Industries Limited, Teh. Hukkeri, Karnataka",Bellad Bagewadi,Bellad Bagewadi,(08333) 251251
+"Soubhagya Laxmi Sugars Ltd, Teh. Gokak, Karnataka",Soubhagyalaxmi,Hirenandi,(08332) 2221302
+"The India Sugars and Refineries Ltd., Hospet, Karnataka",Hospet,Chitwadgi,(08394) 228845 to 228850
+"NSL Sugars (Tungabhadra) Ltd, Teh. Siruguppa, Karnataka",Siruguppa,PO.Desanur,N.A.
+"Bhalkeshwar Sugars Ltd, Teh. Bhalki, Karnataka",Bajolga,A/p. Bajolga,N.A.
+"Bhavani Khandsari Sugars Ltd, Teh.Bidar, Karnataka",Baroor,"Survey No. 289/AA/2, Vill. Baroor",
+"The Bidar Sahakari Sakkare Karkhane Ltd, Teh. Humanabad, Karnataka",Bidar,"Hallikhed (SF)-585415, 
+Tq. Humnabad, Dist. Bidar, Karanataka state,",N.A.
+"The Mahatma Gandhi Sahakari Sakkare Karkhane Ltd, Teh. Bhalki, Karnataka",Bhalki,"Hunaji (A), PO. Alandi, Teh. Bhalki, Dist. Bidar",N.A.
+"NARANJA SAHAKARI SAKKARE KARKHANE LTD.,, BIDAR, Karnataka",IMAMPUR,"G.N. NAGAR, POST IMAMPUR, (NEAR JANWADA),
+TQ. & DIST. BIDAR - 585 402
+(KARNATAKA STATE)","(08482) 244196, 244135."
+"Shri Balaji Sugars and Chemicals Pvt. Ltd, Tal:  Muddebihal, Karnataka",Muddebihal,Yargal,N.A.
+"Dnyanayogi Shri Shivakumar Swamiji Sugars Ltd, Teh. Indi, Karnataka",Hirebevanur,"Shri Siddeshwar Nagar, Hirebevanur",N.A.
+"Indian Sugar Manufacturing Co. Ltd, Teh. Indi, Karnataka",Havinal,Havinal,N.A.
+"Jamkhandi Sugars Limited, (Unit - 2), Teh. Indi, Karnataka",Jamkhandi Unit-II,At. Nad KD Village,N.A.
+"KPR Sugar Mill limited, Taluk. Sindagi, Karnataka",Almel,"Kadani Road, Vill. Almel",N.A.
+"Manali Sugars Ltd, Teh. Sindagi, Karnataka",Malaghan,Malaghan,N.A.
+"The Nandi Sahakari Sakkare Karkhane Niyamit, Vijayapura, Karnataka",Bijapur,"Krishnanagar, Post:. Hosur Tal. Babaleshwar Dist: Vijayapur 
+Pin Code 586113 Karnataka State.","(08355) 280015, 280054"
+"Davangere Sugar Company Ltd., Teh. Davangere, Karnataka",Davangere,PO. Kukkuwada,(08192) 201623 to 30
+"Bannari Amman Sugars Ltd, Teh. Kollegal, Karnataka",Maheswara,Vill. Kunthur,N.A.
+"Shamanur Sugars Ltd, Teh. Harapanahalli, Karnataka",Shamanur,Vill.Duggavathi,09972955255
+"Vijayanagar Sugar Pvt. Ltd, Teh. Mundargi, Karnataka",Mundargi,Vill. Gangapur,N.A.
+"NSL Sugars Ltd., (Unit - 2), Tel. Aland, Karnataka",Aland,Vill. & PO. Bhusnoor,N.A.
+"Shree Renuka Sugars Ltd., (Unit - 5), Tel. Afzalpur, Karnataka",Havalga,"Bhagyavanthi Nagar, Havalaga",09900558195 to 99
+"The Ugar Sugar Works Ltd., (Unit - 2), , ",Malli,Nagarahalli Malli,
+"Sri Chamundeswari Sugars Ltd., (Unit - 2), Teh. Channarayapatna, Karnataka",Hemavati,"(Lessee of Hemavathi SSK Ltd.,) Srinivasapura","(08176) 270009, 270245"
+"Sri Chamundeswari Sugars Ltd., (Unit - 1), Teh. Maddur, Karnataka",Chamundeswari,Bharathinagar (K M Doddi),N.A.
+"Coromandel Sugars Limited, Krishnarajapet, Karnataka",Makkavalli,"Coromandel Sugars Limited
+Makavalli, K.R. Pet taluk, Mandya district.",N.A.
+"The Mysore Sugar Co. Ltd., Mandya, Karnataka",Mysugar,Sugar Town,N.A.
+"The Pandavapura S.S.K. Ltd., Pandavapura, Karnataka",Pandavapura,Pandavapura,"(08236) 255025, 500"
+"NSL Sugars Ltd, Maddur Taluk, Karnataka",Koppa,Vill. & PO. Koppa,N.A.
+"Shree Ambika Sugars Ltd, Teh. K.R. Nagar, Karnataka",Chunchanakatte,"(Lessee Shree Sreerama S.S.K. Ltd.,) PO. Chunchanakatte","(08223) 281135, 38, 281310, 281311"
+"Bannari Amman Sugars Ltd, Teh. Nanjangud, Karnataka",BAS,Vill. Alaganchi,"(08221) 235045, 235045"
+"The Mysore Paper Mills Ltd., Paper Town, Bhadravati, Karnataka",Bhadravati,Bhadravathi,(08282) 270780
+"E.I.D. Parry India Ltd., Vill. Hullatti, Karnataka",Hullati,PO. Haliyal,N.A.
+"Core Green Sugar Fuels Pvt. Ltd., Teh. Shahapur, Karnataka",Core Green,Vill. Tumkur,9686654706 / 708
+"Anand Agrochem India Ltd., Gopi, Ladhua Vill., Uttar Pradesh",Anandgopi,"Between Gopi & Ladhua Vill, On G.T. Road, Tal. Koul,","(0571) 2203880, 82, 83"
+"The Kisan Sahkari Chini Mills Ltd. Satha (Aligarh), Satha, Uttar Pradesh",Harduaganj,"Satha, Dist. Aligarh",N.A.
+"Triveni Engineering and Industries Ltd., Chhapna, Uttar Pradesh",Chandanpur,"Vill. Chandanpur, PO. Chhapna, Teh. Hasanpur, Dist. Amroha","(05924) 267002 to 04,07,09"
+"Dwarikesh Sugar Industries Ltd., Bareilly, Uttar Pradesh",Dwarikeshdham,"Dwarikesh Dham, Teh. Faridpur,","(0581) 2305700,"
+"DSM Sugar Meerganj (A Unit of Dhampur Sugar Mills Ltd.), Meerganj, Uttar Pradesh",Meerganj,"Sindhauli Road, Meerganj,",N.A.
+"Kesar Enterprises Ltd., Baheri, Uttar Pradesh",Baheri,"Baheri,",(05822) 223691-93
+"Kisan Sahakari Chini Mills Ltd., Deoranian, Uttar Pradesh",Semikhera,"Post Deoranian, Tahsil Baheri","(05822) 261623,"
+"Oswal Overseas Ltd., Sainthal, Uttar Pradesh",Oswal Overseas,"PO. Sainthal, Teh. Nawabganj,",N.A.
+"Bajaj Hindusthan Sugar Ltd., Bilai, Uttar Pradesh",Bilai,"PO. Bilai,","(01342) 274120, 274226,"
+"Dhampur Sugar Mills Ltd., Dhampur, Uttar Pradesh",Dhampur,Dhampur,"(01344) 220009,220662"
+"Dwarikesh Sugar Industries Ltd., Bijnor, Uttar Pradesh",Dwarikesh,Dwarikesh Nagar,"(01343) 267061, 62, 64"
+"Dwarikesh Sugar Industries Ltd.,, Dhampur, Uttar Pradesh",Dwarikesh Puram,"Vill. Bahadarpur, Teh. Dhampur","(01343) 241256, 57"
+"Kisan Sahakari Chini Mills Ltd., Najibabad, Uttar Pradesh",Najibabad,"Sneh Road, Najibabad",(01341) 255410
+"P.B.S. Foods (Sugar) Pvt. Ltd., Chandpur, Uttar Pradesh",Chandpur,"Haldaur Road, Unit- Chandpur",(01345) 220388
+"Avadh Sugar and Energy Ltd., Seohara, Uttar Pradesh",Seohara,"PO. Seohara,","(01344) 252401, 252303, 73"
+"Uttam Sugar Mills Ltd., Najibabad,, Uttar Pradesh",Pundrikhurd,"Vill. Barkatpur, PO. Sabalpur Bitra, Teh. Najibabad",N.A.
+"Wave Industries Pvt. Ltd., Bijnor, Uttar Pradesh",Bijnor,Bijnor,(01342) 252035
+"The Kisan Sahkari Chini Mills Ltd., Budaun, Uttar Pradesh",Budaun,Sheikhupur,"(05832) 266289, 7880888951"
+"The Kisan Sahakari Chini Mills Ltd., Kaimganj, Uttar Pradesh",Kaimganj,Kaimganj,7880888981
+"Baghauli Sugar and Distillery Ltd., Baghauli, Uttar Pradesh",Bikapur,"Vill. Bikapur, PO. Sautera via Madhoganj,",(05852) 213344
+"DCM Shriram Ltd., (Unit- Rupapur), Hardoi, Uttar Pradesh",Rupapur,PO. Munder,"(05852) 269244, 45"
+"DCM Shriram Ltd. (Unit - Hariawan), Hariawan (Hardoi), Uttar Pradesh",Hariawan,Vill. & PO. Hariawan (Hardoi).,"(05852) 253182,83"
+"Shri Dutt India Pvt. Ltd., (Operator of Vasantdada S.S.S.K.Ltd., Sangli), Sangli, Maharashtra",SANGLI,"SANGLI - MADHAVNAGAR ROAD, DIST. - SANGLI. TAL - MIRAJ. SANGLI 416416 , MAHARASHATRA  STATE","9112688888, 9112788888"
+"The Kisan Sahkari Chini Mills Ltd., Hasanpur, Uttar Pradesh",Gajraula,"Gajraula-Hasanpur,",(05924) 264167
+"Wave Industries Pvt. Ltd., Dhanaura, Uttar Pradesh",Dhanaura,"Vill. Malaysia,  Teh. Dhanaura,",(05924) 273045 to 47
+"Neoli Sugar Factory, PO. Neoli, Uttar Pradesh",Neoli,Neoli,(05744) 275068
+"Bajaj Hindusthan Sugar Ltd., Gola Gokarannath, Uttar Pradesh",Gola,Gola Gokarannath,(05876) 233754/755/403
+"Bajaj Hindusthan Sugar Ltd.,, Palia-Kalan, Uttar Pradesh",Paliakalan,Paliakalan,"(05871) 233346, 233349, 233410"
+"DCM Shriram Ltd., (Unit-Ajbapur), Lakhimpur Kheri, Uttar Pradesh",J.B. Ganj,"Vill. Ajbapur, PO. Mullapur",
+"Gobind Sugar Mills Limited, Lakhimpur Kheri, Uttar Pradesh",Aira,"Village-Khamaria Pandit, P.O.-Aira Estate, District- Lakhimpur Kheri 262722",91-5874-282225
+"Kisan Sahakari Chini Mills Ltd., Sampurna Nagar, Uttar Pradesh",Sampurnanagar,Sampurna Nagar-Kheri,(05871) 222226
+"Sarjoo Sahkari Chini Mills Ltd., Belrayan, Uttar Pradesh",Belrayan,Belrayan,(05873) 276224
+"Shree Ajudhia Sugar Mills, Bilari, Uttar Pradesh",Raja ka Shashpur,"PO. Raja Ka Shashpur, Bilari, Dist. Moradabad 244 415",(05921) 270014
+"Dewan Sugars Ltd., Moradabad, Uttar Pradesh",Agwanpur,Haridwar Road Agwanpur,
+"Rana Sugars Limited, Moradabad, Uttar Pradesh",Belwara,"Village Belwara, Post Manpur Tanda-Bazpur Road Moradabad","(0591) 2254039, 040 / 045"
+"Triveni Engineering and Industries Ltd., PO. Aliabad Pipli, Uttar Pradesh",Rani Nangal,"Vill. Rani Nangal, PO. Aliabad Pipli, Teh. Thakurdwara,",N.A.
+"Bajaj Hindusthan Sugar Ltd., Barkhera, Uttar Pradesh",Barkhera,"17th KM milestone at Pilibhit - Bisalpur road, P.O. Barkhera Kalan, Pilibhit. 262203",(05881) 228811-13
+"Bisalpur Kisan Sahkari Chini Mills Ltd., Bisalpur, Uttar Pradesh",Bisalpur,"Shahjahanpur Pilibhit Road, Bisalpur District Pilibhit",(05881) 223243
+"The Kisan Sahkari Chini Mills Ltd., Puranpur, Uttar Pradesh",Puranpur,"Puranpur Unit,",N.A.
+"L.H. Sugar Factories Ltd., Pilibhit, Uttar Pradesh",Pilibhit,"Civil Lines, Pilibhit","(05882) 256053, 255867,"
+"Rana Sugars Ltd., (Unit - 4), Vill. Karimganj, Uttar Pradesh",Karimganj,"Vill. Karimganj, PO. Shahbad",(05960) 264218
+"Rudra-Bilas Kisan Sahkari Chini Mills Ltd., Bilaspur, Uttar Pradesh",Bilaspur,"PO. Chini Mill, Bilaspur",(0595) 2461254
+"Triveni Engineering and Industries Ltd., PO. Dadiyal, Uttar Pradesh",Milak Narayanpur,"Milak Narayanpur, PO. Dadiyal",N.A.
+"Dhampur Sugar Mills Ltd., PO. Asmoli, Uttar Pradesh",Asmoli,"Vill. & PO. Asmoli, Teh. & Dist. Sambhal",(05923) 221566
+"Dhampur Sugar Mills Ltd., PO. Rajpura, Uttar Pradesh",Rajpura,"Vill. & PO. Rajpura, Teh. Gunnaur",(05836) 239055
+"Bajaj Hindusthan Sugar Ltd., Maqsoodapur, Uttar Pradesh",Maqsoodapur,"Vill. & PO. Maqsoodapur, Teh. Powayan",N.A.
+"Dalmia Bharat Sugar and Industries Ltd. (Unit - Nigohi), Nigohi, Uttar Pradesh",Nigohi,"Village - Kuiyan, PO. Areli (Nigohi), Tehsil - Tilhar",(05841) 275538
+"The Kisan Sahkari Chini Mills Ltd., Tilhar, Uttar Pradesh",Tilhar,Tilhar,(05841) 243573
+"Kisan Sahkari Chini Mills Ltd., Powayan, Uttar Pradesh",Powayan,"Karnapur, Powayan, Dist. Shahjahanpur 242 401,",N.A.
+"Avadh Sugar Energy Ltd., Rosa, Uttar Pradesh",Rosa,(Unit- Rosa) Vill. Rosa,9369488938
+"IPL Sugars Chemicals, (A Division of Indian Potash Ltd. unit), Jarwal Raod, Uttar Pradesh",Jarwal,Jarwal Raod,(05251) 225113
+"Parle Biscuits Pvt. Ltd., Vill. Parsendi, Uttar Pradesh",Parsendi,"Vill. Parsendi, Teh. Kaiserganj","(05251) 234340, 43"
+"Shravasti Kisan Sahkari Chini Mills Ltd., Nanpara, Uttar Pradesh",Nanpara,Vill. Balha (Nanpara) P.O. Balha,NIL
+"Simbhaoli Sugars Ltd., Bahraich, Uttar Pradesh",Chilwaria,"Village & PO Chilwaria, 13-14 K.M., Bahraich-Gonda Road,",(05252) 244019
+"Bajaj Hindusthan Sugar Ltd., (Unit- Utraula), Mahuwa (Shreeduttaganj), Uttar Pradesh",Itai Maida,"Vill. Itai Maida, PO. Mahuwa (Shreeduttaganj),",N.A.
+"Balrampur Chini Mills Ltd., Balrampur, Uttar Pradesh",Balrampur,Balrampur,"(05263) 232379, 232235,"
+"Balrampur Chini Mills Ltd., Unit - TULSIPUR, Tulsipur, Uttar Pradesh",Tulsipur,PO. Tulsipur,9517457557
+"Balrampur Chini Mills Ltd, Unit - Haidergarh, Barabanki, Uttar Pradesh",Haidergarh,"Vill. PO. Pokhra, Haidergarh","(05244) 246502, 246503"
+"Bajaj Hindusthan Sugar Ltd., PO. Rudranagar, Uttar Pradesh",Rudhauli,"Vill. Athadama,PO. Rudranagar,Teh. Rudhauli,",(05542) 207406
+"The Basti Sugar Mills Co. Ltd., Basti, Uttar Pradesh",Basti,PO. Sugar Factory,"(05542) 242681, 242970, 242682"
+"Phenil Sugar Ltd.,, PO. Walterganj, Uttar Pradesh",Walterganj,"Govind Nagar, PO. Walterganj","(05542) 274606, 274301,"
+"Bajaj Hindusthan Sugar Ltd, Pratappur, Uttar Pradesh",Pratappur,Pratappur,(05566) 285023/26
+"K.M. Sugar Mills Ltd., PO. Motinagar, Uttar Pradesh",K.M. Sugar,PO. Motinagar,(05278) 254059
+"Balrampur Chini Mills Ltd.,Unit-Rauzagaon Chini Mills, PO.Rauzagaon, Uttar Pradesh",Rauzagaon,PO. Rauzagaon,"9559566666, 9936977777"
+"Bajaj Hindusthan Sugar Ltd., Gonda, Uttar Pradesh",Kundarkhi,"Kundarkhi-Kastua, PO. Govindpara,",(05262) 265178
+"Balrampur Chini Mills Ltd., Babhnan, Uttar Pradesh",Babhnan,"PO. Babhnan Sugar Factory,",(05546) 256634
+"Balrampur Chini Mills Ltd. Unit - Maizapur, Haldharmau, Uttar Pradesh",Maizapur,"Vill. Maizapur, PO. Haldharmau,",8009091826
+"Mankapur Chini Mills , (A Unit of Balrampur Chini Mills Ltd), Vill. and PO. Datauli, Uttar Pradesh",Mankapur,"Vill. and PO. Datauli, Teh. Mankapur",(05265) 264680/ 685/ 687
+"Khalilabad Sugar Mills (A Unit of Balrampur Chini Mills Ltd), Sant Kabir Nagar, Uttar Pradesh",Khalilabad,Khalilabad,7607503333
+"Avadh Sugar and Energy Ltd., Unit - New India Sugar Mills, Hata, Vill. Dhadha Buzurg, Uttar Pradesh",Dhadha Buzurg,Teh. Hata,(05567) 261022
+"Indian Potash Ltd., Raja Bazar, Uttar Pradesh",Khadda,Raja Bazar,(05563) 285021
+"Shankara Sharkara Sankul (A Unit of The Kanoria Sugar General Manufacturing Co. Ltd.,), Kushinagar, Uttar Pradesh",Captainganj,Captainganj,"(05567) 252029, 31, 23"
+"Triveni Engineering and Industries Ltd., Kushinagar, Uttar Pradesh",Ramkola,Ramkola,"(05567) 256021, 256182"
+"The United Provinces Sugar Co. Ltd, Kushinagar, Uttar Pradesh",Seorahi,PO. Seorahi,"(05564) 262029, 262359"
+"Bajaj Hindusthan Sugar Ltd., Khambharkhera, Uttar Pradesh",Khambharkhera,Sharda Nagar Road,(05872) 220025 to 28
+"Balrampur Chini Mills Limited, Unit-Gularia Chini Mills, Lakhimpur, Uttar Pradesh",Gularia,"Vill. Rudrapur Gularia,
+PO-Nausar Gularia","9721450393, 9721136633"
+"Balrampur Chini Mills Ltd. Unit Kumbhi, PO. Kumbhi, Uttar Pradesh",Kumbhi,Teh. Golagokarnnath,"9984094999, 9984095999"
+"Indian Potash Ltd., (Sugars and Chemicals Division ), Unit and PO. Siswa Bazar, Uttar Pradesh",Siswa Bazar,"PO. Siswa Bazar,",(05523) 232135
+"J.H.V. Sugar Ltd., Vill. and Post Gadaura, Uttar Pradesh",Gadaura,Vill. and PO. Gadaura,N.A.
+"Kisan Sahakari Chini Mills Ltd., PO. Ghosi, Uttar Pradesh",Ghosi,PO. Ghosi Distt-Mau,"(05461) 222024, 222027"
+"Balrampur Chini Mills Ltd., Unit- Akbarpur Chini Mill,, Akbarpur, Uttar Pradesh",Akbarpur,"PO. Mijhaura, Tehsil - Bhitii, District - Ambedkar Nagar, Pin-224152","8009091968, 8009479933"
+"Dalmia Bharat Sugar and Industries Limited, Mishrikh, Uttar Pradesh",Ramgarh,"Vill. & PO. Ramgarh, Teh. Mishrikh",(05865) 236116
+"Dalmia Bharat Sugar And Industries Ltd, PO. Ramkot, Uttar Pradesh",Jawaharpur,"Jawaharpur, PO. Ramkot",(05862) 258288
+"The Kisan Sahkari Chini Mills Ltd., Mahmudabad, Uttar Pradesh",Mahmudabad,Mahmudabad (Oudh),(05864) 252216
+"The Avadh Sugar and Energy Ltd., Hargaon, Uttar Pradesh",Hargaon,PO. Hargaon Sugar Mills,"(05862) 256156, 256220, 21"
+"The Seksaria Biswan Sugar Factory Ltd., PO Biswan, Uttar Pradesh",Biswan,PO. Biswan,"(05863) 233166, 67"
+"Kisan Sahkari Chini Mills Ltd., Sultanpur (Awadh), Uttar Pradesh",Sultanpur,Sultanpur (Awadh),(05362) 240347
+"SBEC Sugar Limited ' Malakpur', Baraut, Uttar Pradesh",Malakpur,"Vill. & PO. Loyan Malakpur, Teh. Baraut","(01234) 259224, 259206, 259207, 259273"
+"The Baghpat Co-Op. Sugar Mills Ltd., Baghpat, Uttar Pradesh",Baghpat,N.A.,(0121) 2221029
+"Ramala Sahkari Chini Mills Ltd., Baraut, Uttar Pradesh",Ramala,"Ramala Sahkari Chini Mills Ltd., Ramala (Baghpat)","(01234) 243501,244966"
+"Anamika Sugar Mills Pvt. Ltd., Aurangabad, Uttar Pradesh",Agauta,Vill. Bhandoria,"(05732) 236742, 43"
+"The Kisan Sahkari Chini Mills Ltd.,, Anoopshahr, Uttar Pradesh",Anoopshahr,PO. Chini Mill- Jahangirabad,(05734) 2602696
+"Triveni Engineering and Industries Ltd., Karora, Uttar Pradesh",Sabitgarh,"PO. Karora, Teh. Khurja","9557794246, 9557794247"
+"Wave Industrial Ltd., Panni Nagar, Uttar Pradesh",Bulandshahr,"Bulandshahr, Panni Nagar",N.A.
+"Modi Sugar Mills, Modinagar, Uttar Pradesh",Modinagar,"Opp. Modi Temple,","(01232)  242321, 246060"
+"The Simbhaoli Sugars Ltd., Hapur, Uttar Pradesh",Brijnathpur,"Village Brijnathpur, Post Office Harsinghpur, Hapur, Ghaziabad, Uttar Pradesh - 245101, India","(0122) 2953458, 2953460, 2953643"
+"Simbhaoli Sugars Ltd., Simbhaoli, Uttar Pradesh",Simbhaoli,"VILLAGE & PO:- SIMBHAOLI- 245207,HAPUR , UTTAR PRADESH","(05731) 223117, 18"
+"Bajaj Hindusthan Sugar Ltd, PO. Rasulpur, Uttar Pradesh",Kinauni,Vill. Kinauni,"(0121) 2418831, 2418828/29"
+"Daurala Sugar Works(A Unit of DCM Shriram Industries Ltd.), Daurala, Uttar Pradesh",Daurala,Daurala,"(01237) 230096, 230098 to 100"
+"Indian Potash Ltd., Sakhoti Tanda, Uttar Pradesh",Sakhoti Tanda,PO. Sakhoti Tanda,(01237) 281022
+"Mawana Sugar Works,(A Unit of Mawana Sugars Ltd., New Delhi), Mawana, Uttar Pradesh",Mawana,Mawana,(01233) 275212
+"Nanglamal Sugar Complex, (A Unit of Mawana Sugars Ltd.), Vill. Nanglamal, Uttar Pradesh",Nanglamal,"Vill. Nanglamal, PO. Mau Khas, Garh Road","(0121) 2882062, 63, 2882406, 2882387,2882671"
+"Bajaj Hindusthan Sugar Ltd., Vill. Bhaisana, Uttar Pradesh",Budhana,"Bhaisana Unit,Budhana,","(01392) 235070, 71"
+"DSM Sugar - Mansurpur,, Mansurpur, Uttar Pradesh",Mansurpur,Mansurpur,(01396) 252238
+"The Ganga Kisan Sahkari Chini Mills Ltd., Morna, Uttar Pradesh",Morna,Morna,(01396) 222454
+"Indian Potash Ltd., Rohanakalan, Uttar Pradesh",Rohanakalan,Rohanakalan,(0131) 2485305
+"Tikaula Sugar Mills Ltd., PO. Ramraj, Uttar Pradesh",Tikaula,"Vill. Tikaula, PO. Ramraj, Teh. Jansath","(01396) 246508, 246528"
+"Indian Potash Ltd.,(Unit- Titawai Sugar Complex), PO. Titawi, Uttar Pradesh",Titawi,"Shamali Road, Vill. & PO. Titawi","(0131) 2486496, 2486497"
+"Triveni Engineering and Industries Ltd., Khatauli, Uttar Pradesh",Khatauli,Khatauli,"(01396) 272561/ 562,"
+"Uttam Sugar Mills Ltd., PO. Khaikheri, Uttar Pradesh",Khaikheri,"Unit,: Khaikheri,  Vill. & Po. Khaikheri",N.A.
+"Superior Food Grains (P) Ltd., Shamli, Uttar Pradesh",UNN,"Block- Unn, PO. Gagor, Teh. Unn, District - Shamli (UP)",(01398) 247175
+"Bajaj Hindusthan Sugar Ltd., Gangnauli, Uttar Pradesh",Gangnauli,"Gangnauli, PO. Tashipur Sugars, Teh. Deoband",(01336) 235401-235410
+"The Kisan Co-Op. Sugar Factory Ltd., Sarsawa, Uttar Pradesh",Sarsawa,Sarsawa,(01331) 244235
+"The Kisan Sahkari Chini Mills Ltd., Nanauta, Uttar Pradesh",Nanauta,Nanauta,(01336) 254264
+"Shakumbari Sugar and Allied Ind. Ltd., Todarpur, Uttar Pradesh",Todarpur,Todarpur,"(0132) 2779211, 12, 13, 2761246"
+"Triveni Engineering and Industries Ltd., Deoband, Uttar Pradesh",Deoband,Deoband,"(01336) 222185, 222866,222497,"
+"Uttam Sugar Mills Ltd. (Unit - 4), Nakur,, Uttar Pradesh",Shermau,"PO. Ambehtapeer, Teh. Nakur",0120-4525000
+"Bajaj Hindusthan Sugar Ltd., Vill. Thanabhawan, Uttar Pradesh",Thanabhawan,Vill. Thanabhawan,"(01398) 233609, 234983"
+"Upper Doab Sugar Mills, Shamli, Uttar Pradesh",Shamli,Shamli,"(01398) 250063,64"
+"Olam Agro India Pvt. Ltd., Ghatwa, Madhya Pradesh","Khalbujurg, Code","PO. Ghatwa, Teh. Thikri.",(0124) 4839999
+"Navalsingh Sahakari Sakkar Karkhana Maryadit, Burhanpur, Madhya Pradesh",Navalnagar.,"Navalnagar (Ziri), PO. Nimbola,","(07325) 288061/62, 288665."
+"Krishak Sahakari Shakkar Karkhana Maryadit, Narayanpura, Madhya Pradesh",Krishak,"Vill. Narayanpura, PO. Awan, Teh. Raghogarh.",09827040042
+"Ramdev Sugar Pvt. Ltd., Bankhedi, Madhya Pradesh",Thaini,"Thaini, PO. Bankhedi.","(07576) 228888, 228788, 228434."
+"Revakripa Sugars Pvt Ltd., Shahapura, Madhya Pradesh",Revakripa,"Paudi Phatak, Shahapura, Teh. Bhitoni.",N.A
+"Kareli Sugar Mill Pvt. Ltd., Kareli, Madhya Pradesh",Kareli,"Gadarwara Road, Kareli",
+"Jawaharlal Nehru Sahakari Agri. Produce Processing Society Ltd., khagone, Madhya Pradesh",Khargone,"Vill. Sarwar Deola, PO. Borawan, Teh. Kasrawad.","(07285) 277865, 66, 67."
+"Mahakaushal Sugar and Power Industries Ltd., Bachai, Madhya Pradesh",Bachai,Bachai,(07792) 235474
+"Narmada Sugars Pvt. Ltd., Pondar, Madhya Pradesh",Pondar,"P.O. Pondar, Salichouka, Teh. Gadarwara.",(07791) 251032
+"Shakti Sugar Mill Pvt. Ltd., Kodiya, Madhya Pradesh",Kodiya,"Kodiya, Teh. Gadarwara.","(07791) 233499, 243500"
+"Ma Bhagwati Sugar Mills Ltd., Bakatara, Madhya Pradesh",Baktara,Tal. Budhani,"(0755) 2573954, 2763653"
+"Shriji Sugar And Power Pvt. Ltd., Sohagpur, Madhya Pradesh","Shrijee,",Vill. Sohagpur.,(07141) 267888
+"Aakriti Sugar Mills Pvt. Ltd., Tumada, Madhya Pradesh",Tumada,"Vill. Tumada, Tal. Gadarwara.",(0755) 2763653
+"Shree Ambika Sugars Ltd., Teh. Tittagudi, Tamil Nadu",Ambika,"PO. Pennadam R.S., Teh. Tittagudi","(04143) 222215, 222234,"
+"E.I.D. Parry (India) Ltd., Nellikuppam, Tamil Nadu",Nellikuppam,"No. 138, Keelarungunam Road, 
+Nellikuppam
+Cuddalore District","(04142) 272234, 272239, 272231"
+"M.R. Krishnamurthy Co-Op. Sugar Mills Ltd., Sethiathope, Tamil Nadu",Sethiathope,"Sethiathope(Post), Bhuvanagiri (TK) . Cuddalore (Dt)",(04144) 244391-93
+"Thiru Arooran Sugars Ltd., PO. Nallur, Tamil Nadu",Thiru Arooran,"At. Chittur, PO. Nallur, Teh. Veppur",9412713967
+"The Dharmapuri District Co-Op. Sugar Mills Ltd., Vill.Thimmanahalli, Tamil Nadu",Dharmapuri,"Village Thimmanahalli, PO. Jerthalav, Teh. Palacode",(04348) 222036
+"Subramaniya Siva Co-op. Sugar Mills Ltd., PO. Alapuram, Teh. Pappireddipatti, Tamil Nadu",Alapuram,"Gopalapuram, PO. Alapuram, Tal. Pappireddipatti","(04346) 242310, 242150"
+"Ponni Sugars (Erode) Ltd., Erode, Tamil Nadu",Ponni,"Odapalli, PO. Cauvery R.S., Erode",(04288) 247351-55
+"Sakthi Sugars Ltd., Sakthinagar, Tamil Nadu",Sakthi,"Sakthinagar, Appakudal, Teh. Bhavani","(04256) 246241 to 44, 246341 to 44"
+"Sakthi Sugars Ltd., Aval Poondurai, Tamil Nadu",Modakurichi,"Poondurai-Semur Village, Aval Poondurai Via, Modakurichi Tk,Erode.",N.A.
+"Padmaadevi Sugars Ltd., Palayaseevaram, Tamil Nadu",Palayaseevaram,Palayaseevaram Teh. Kanchipuram,(044) 27258003/06
+"E.I.D. Parry (India) Ltd., PO. Pugalur, Tamil Nadu",Pugalur,PO. Pugalur Sugar Factory,"(04324) 270203,"
+"The National Co-op. Sugar Mills Ltd., Mettupatti, Tamil Nadu",Alanganallur,"A. 2731, 15B- Mettupatti, Alanganallur, Teh. Vadipatti","(04543) 245381, 83"
+"NPKR Ramasamy Co-Op. Sugar Mills Ltd., Thalainayar, Tamil Nadu",Mailaduthurai,"Thalainayar, PO. Elanthope, Teh. Mayiladuthurai",(04364) 258425
+"The Salem Co-Op. Sugar Mills Ltd., Mohanur, Tamil Nadu",Salem,PO. Mohanur,"(04286) 255221, 255224"
+"Dhanalakshmi Srinivasan Sugars Pvt. Ltd., Udumbiyam, Tamil Nadu",Udumbiyam,"Vill. Udumbiyam, Tal. Veppanthattai",(04328) 293777
+"Kothari Sugars and Chemicals Ltd., Sathamangalam, Tamil Nadu",Sathamangalam,"Sathamangalam, PO. Vetriyur, Teh. Ariyalur",(04329) 320800
+"Perambalur Sugar Mills Ltd., PO. Eraiyur, Tamil Nadu",Perambalur,"Perambalur Sugar Mills Limited (jawaharlal Nehru sugar mills) (A subsidiary of Tamil Nadu Sugar Corporation Limited) 
+Eraiyur (po), Taluk –Veppanthattai ,District - Perambalur",(04328) 252221
+"E.I.D. Parry (India) Ltd., Kurumbur, Tamil Nadu",Aranthangi,"Pudukkottai Sugar Factory, Kurumbur, Teh. Aranthangi","(04371) 236350, 236456"
+"Bannari Amman Sugars Ltd. (Unit - 1), Alathukombai, Tamil Nadu",Bannari Amman,"PO. Alathukombai, Sathyamangalam","(04295) 220363, 250200"
+"Sakthi Sugars Limited, (Unit- 2), Padamathur Po., Tamil Nadu",Sivaganga,"Kannariruppu- Matnur, PO. Padamathur","(04575) 236204, 236206"
+"Shree Ambika Sugars Ltd., Kottur, Tamil Nadu",Kottur,"Kottur, PO. Tuhili, Tal. Thiruvidaimaruthur",(0435) 2472511
+"Arignar Anna Sugar Mills, Thanjavur, Tamil Nadu",Thanjavur,P.O. Kurungulam,(04362) 282424
+"Thiru Arooran Sugars Ltd., Tirumandankudi, Tamil Nadu",Tirumandankudi,"Tirumandankudi, Tal. Papanasam","(0435) 2441184 , 85"
+"Rajshree Sugars and Chemicals Ltd. (Unit 1), Varadaraj Nagar, Tamil Nadu",Rajshree,"PO. Varadaraj Nagar, Near Vaigai Dam, Tal. Periyakulam,",(04546) 237237
+"Dharani Sugars Chemicals Ltd., (Unit- 1), Dharaninagar, Tamil Nadu",Dharani,"Dharani Nagar, PO. Athuvazhi, Teh. Sivagiri",(04636) 241370 to 241373
+"Amaravathi Co-op. Sugar Mills Ltd, Krishnapuram, Tamil Nadu",Amaravathi,"Vill. Krishnapuram, Teh. Madathukulam","(04252) 252221, 252222"
+"Tiruttani Co-Op. Sugar Mills Ltd., Tiruvalangadu, Tamil Nadu",Tiruttani,"Tiruvalangadu,","(044) 27872236, 46"
+"Bannari Amman Sugars Ltd., (Unit - 4), Tiruvannamalai, Tamil Nadu",Tiruvannamalai,"Kolundampattu  Village,  Thandrampattu Taluk,","(04188) 248600, 248571, 248572"
+"Gayatri Sugars Ltd, Maagi, Telangana, Maagi, Telangana",Maagi,"Nizamsagar Unit, Maagi, Nizamsagar Mandal.",(08465) 275577
+"Dharani Sugars and Chemicals Ltd., (Unit - 2), PO. Karaipoondi, Tamil Nadu",Polur,"PO. Karaipoondi, Tal. Polur,","(04181) 223170, 223162"
+"E.I.D. Parry (India) Ltd., Pettaivaytalai, Tamil Nadu",Cauvery,"Pettavaithalai,","(0431) 2612432, 2612428, 9842822430"
+"KOTHARI SUGARS AND CHEMICALS LIMITED, Kattur, Tamil Nadu",Lalgudi,"M/S. KOTHARI SUGARS AND CHEMICALS LIMITED.,
+KATTUR & POST - 621 706,
+LALGUDI TALUK, TRICHY DISTRICT, TAMIL NADU STATE.","(0431) 2541224, 2541350, 2541453"
+"The Ambur Co-Op. Sugar Mills Ltd., Vadapudupet, Tamil Nadu",Ambur,Vadapudupet,"(04171) 242227, 242337"
+"Tirupattur Co-op. Sugar Mills Ltd.,, Kethandapatti, Tamil Nadu",TIRUPATTUR CO OP SUGARS,"PO. Kethandapatti, Teh. Natrampalli,","(04174) 268293, 268294,"
+"The Vellore Co-Op. Sugar Mills Ltd., Vellore, Tamil Nadu",Vellore,"PO. Vellore Sugar Mill, Teh. Katpadi",(0416) 2236101 to 104
+"Chengalrayan Co-Op. Sugar Mills Ltd., Periyasevalai, Tamil Nadu",Ulundurpet,"Periyasevalai, Teh. Ulundurpet",(04149) 234351
+"The Kallakurichi Co-Op.Sugar Mills Ltd. (Unit I), Moongilthuraipattu, Tamil Nadu",Kallakurichi I,"I.I. 389, Moongilthuraipattu, Teh. Sankarapuram",(04151) 250304
+"Kallakurichi II Co-op. Sugar Mills Ltd.,, Kachirayapalayam, Tamil Nadu",Kachirayapalayam,"Kachirayapalayam,  Teh. Chinnasalem",(04151) 234424
+"Bannari Amman Sugars Limited, (Unit- 5) (Formerly Madras Sugars Ltd.,), Vengur, Tamil Nadu",Tirukoilur,"Vill. Vengur, Teh. Tirukoilur, Dist. Villupuram 605 751","(04153) 236203, 236270"
+"Rajshree Sugars and Chemicals Ltd., (Unit 2), Mundiyampakkam, Tamil Nadu",Mundiyampakkam,"Mundiyampakkam, Teh.. Villupuram","(04146) 232401, 232402,"
+"Rajshree Sugars and Chemicals Ltd., (Unit 3), Gingee, Tamil Nadu",Semmedu,"PO. Semmedu, Teh. Gingee",(04145) 231020
+"Doiwala Sugar Co. Ltd, Doiwala, Uttarakhand",Doiwala,"Mill Road, Doiwala",(0135) 2695109
+"Dhanashree Agro Products Pvt. Ltd. (Formerly- Lakshmi Sugar Mills Company Ltd.), Roorkee, Uttarakhand",Iqbalpur,Iqbalpur,"(01332) 231331, 231221"
+"Rai Bahadur Narain Singh Sugar Mills Ltd, N.A., Uttarakhand",Lhaksar,Laksar,(01332) 254655
+"Uttam Sugar Mills Ltd, Roorkee,, Uttarakhand",Libberheri,Vill. Libberheri,(01332) 229194
+"The Bazpur Co-op. Sugar Factory Ltd. , Bazpur, Bazpur, Uttarakhand",Bazpur,Bazpur,(05949) 281043
+"Kichha Sugar Company Ltd, Udham Singh Nagar, Uttarakhand",Kichha,"Kichha,",(05944) 264395
+"The Kisan Sahkari Chini Mills Ltd, Pooranpur Nadehi,, Uttarakhand",Nadehi,"Rajpur, Pooranpur Nadehi,PO. Sugar Mill Nadehi, Dist. Udham Singh Nagar","(05947) 222037, 222038"
+"The Kisan Sahakari Chini Mills Ltd, Sitarganj, Uttarakhand",Sitarganj,"Vill. Sarkara, PO. Nakatpura",N.A.
+"Kisan Sahkari Chini Mills Ltd, Gadarpur, Uttarakhand",Gadarpur,Gadarpur,"(05949) 271108, 231108"
+"Khaitan (India) Ltd, Plassey, West Bengal",Plassey,"Khaitan Nagar,Plassey Sugar Mill,","(03474) 262346, 47, 49"
+"The Bargarh Co-op. Sugar Mills Ltd., Tora, Orissa",Bargarh,A/p. Tora.,"(06646) 230771, 230413, 230353,230745"
+"Bijayananda Co-operative Sugar Mills Ltd., Sagarpali, Orissa",Bijayananda,"At. Sagarpali, Deogaon,",(06652) 284066 to 72
+"Sakthi Sugars Ltd., Haripur, Orissa",Dhenkanal,"Vill. Haripur, PO. Korian.","(06762) 225739, 224746, 224519."
+"The Aska Co-op. Sugar Industries Ltd., Aska, Orissa",Aska,"A/p. Nuagam, Aska.","(06822) 273464, 273469."
+"Nayaagarh Sugar Complex Ltd., Balugaon, Orissa",Nayagarh,"At. Panipoila, PO. Balugaon","(06753) 213282, 213285,"
+"E.I.D. Parry (India) Ltd., Puducherry, Pondicherry",Ariyur,"Ariyur Sugar Factory, Villiyanur Commune,",(0413) 2645317 to 19
+"The Pondicherry Co-op. Sugar Mills Ltd.,, Lingareddipalayam, Pondicherry",Pondicherry,"Vill. Lingareddipalayam, PO. Katterikuppam.",(0413)  2674603.
+"Nizam Deccan Sugars Ltd., Muthyampet, Telangana",Muthyampet,"Muthyampet, Mandal Mallapur",(08725) 264293
+"Kakatiya Cement Sugar and Industries Ltd., Vill. Peruvancha, Telangana",KCSIL,"Vill. Peruvancha,  Kallur Mandal",(08761) 287204
+"Madhucon Sugar and Power Industries Ltd., Rajeswarapuram, Telangana",Rajeswarapuram,"Vill. Rajeswarapuram, PO. Ammagudem, Mandal Nelakondapalli","(08742) 225796, 275521"
+"Ganpati Sugar Industries Ltd., Sangareddy, Telangana",Sangareddy,Vill. Fasalwadi/Kulabgoor,N.A.
+"Nizam Deccan Sugars Ltd., Machavaram, Telangana",Deccan,"Mombojipally, PO. Machavaram, Mandal",(040) 23557761/2/3
+"Trident Sugars Ltd., Zahirabad Mandal,, Telangana",Trident,"Madhunagar, Zahirabad Mandal",(08451) 286473
+"NSL Krishnaveni Sugars Ltd., Ramakrishnapur, Telangana",Krishnaveni,"Vill. Ramakrishnapur, Kothakota Mandal","(08545) 223720,201446"
+"Gayatri Sugars Ltd., Adloor Yellareddy (Vill), Telangana",N.C.S. Gayatri,"Adloor Yellareddy (Vill), Sada Shiva Nagar Mandal",(08468) 248558
+"Gayatri Sugars Ltd., Maagi, Telangana",Maagi,"Nizamsagar Unit, Maagi, Nizamsagar Mandal",09440802574
+"Nizam Deccan Sugars Ltd., Bodhan Mandal, Telangana",Nizam,"Shakarnagar, Bodhan Mandal",(08467) 222025
+"The Ajnala Co-op. Sugar Mills Ltd., Bhalla Pind, Punjab",Ajnala,"Bhala Pind, Teh. Ajnala.",(01858)  505454
+"Rana Sugars Ltd., Baba Bakala, Punjab",Baba Bakala,"Vill. Buttar Seviyan Via Sathiala, Teh. Baba Bakala.","(01853) 257613, 604, 9815900940"
+"Nahar Industrial Enterprises Ltd., Khumna, Punjab",Amloh,"Vill. & Po. Khumna, Teh. Amloh.",(01765) 230551 to 53
+"The Fazilka Co-op. Sugar Mills Ltd., Bodiwala Pitha., Punjab",Fazilka,"Vill. Bodiwala Pitha, PO. Khui - Khera.",(01638) 236275
+"The Batala Co-op. Sugar Mills Ltd., Dakhla, Punjab",Batala,"Vill. Dakhla, G.T. Road, Teh. Batala.",62835-92451
+"Chadha Sugars and Industries Pvt. Ltd., Kiri Afgana, Punjab",Kiri,"Vill. Kiri Afgana, Teh. Batala.",08289090051
+"The Gurdaspur Co-op. Sugar Mills Ltd., Paniar, Punjab",Gurdaspur,"Vill. Paniar, PO. Box No. 27, Gurdaspur 143 521.","(01875) 222817,19"
+"A.B. Sugars Ltd., Randhawa, Punjab",Dasuya,"Vill. Randhawa, PO. Berchha, Teh. Dasuya.",(01883) 305307
+"Indian Sucrose Ltd., Mukerian, Punjab",Mukerian,"G.T. Road, Mukerian.",N.A.
+"The Bhogpur Co-op. Sugar Mills Ltd., Bhogpur, Punjab",Bhogpur,Bhogpur.,"0181) 2722060, 2723160, 5050276."
+"The Nakodar Cooperative Sugar Mills Ltd., Mehatpur, Punjab",Nakodar,"Village -Gagarwal Post Office- Mehatpur, Tehsil - Nakodar",(01821) 511000
+"Wahid Sandhar Sugars Ltd., Phagwara, Punjab",Phagwara,"G.T. Road, Phagwara.","(01824) 261531, 260301, 260548."
+"The Budhewal Co-op. Sugar Mills Ltd., Budhewal, Punjab",Budhewal,Near Kohara Vill.& PO. Budhewal.,"(0161) 2848624, 2830648,2830664,"
+"The Nawanshahr Co-op. Sugar Mills Ltd., Nawanshahr, Punjab",Nawanshahr,"Banga Road, Nawanshahr.",(01823) 222021
+"The Morinda Co-op. Sugar Mills Ltd., Morinda, Punjab",Morinda,"Kainaur Road, Morinda.","(0160) 2630046, 2634101"
+"Bhagwanpura Sugar Mills, Dhuri, Punjab",Dhuri,Malerkotla Road-Dhuri.,"(01675) 220518,222211"
+"Rajasthan State Ganganagar Sugar Mills Ltd., Sri Ganganagar, Rajasthan",Sri Gangangar,"Chak 23 F Kaminpura, Teh. Karanpur, Distt. Sri Ganganagar",(01501) 248015
+"Shree Chalthan Vibhag Khand Udyog Sahakari Mandli Ltd., Chalthan, Gujarat",Chalthan,"Post Chalthan, Taluka Palsana, District Surat, Gujarat State, PIN Code 394305","(02622) 281050, 281112, 282312."
+"Shree Madhi Vibhag Khand Udyog Sahakari Mandli Ltd., Madhi, Gujarat",Madhi,"PB No. 5, A/P- Madhi, Teh. Bardoli.","(02622) 241013, 242141."
+"Shree Mandvi Vibhag Sahkari Khand Udyog Mandli Ltd., Bodhan, Gujarat",Shree Mandvi,"At. Vadod, PO. Bodhan, Teh. Mandvi.",(02623) 222715.
+"Shree Sayan Vibhag Sahakari Khand Udyog Mandli Ltd., Sayan, Gujarat",Sayan,"Sayan, Teh. Olpad.","(02621) 242149, 242278."
+"Shree Ganesh Khand Udyog Sahakari Mandli Ltd., Bharuch, Gujarat",Shree Ganesh Khand Udyog Sahakari Mandli Ltd.,"A/P. Vataria, Teh. Valia, Dist. Bharuch 393001","(02643) 257100, 257123"
+"Shri Narmada Khand Udyog Sahakari Mandli Ltd., Timbi, Gujarat",Dharikheda,"Dharikheda, PO. Timbi Via-Pratapnagar.","(02640) 249711, 249712."
+"Shree Maroli Vibhag Khand Udyog Sa hakari Mandli Ltd., PO. Maroli Bazar, Gujarat",Maroli,"Kalyannagar, Vill. Kolasana, PO. Maroli Bazar, Teh. Jalalpore.","(02637) 270100, 102, 103, 105,"
+"Shree Khedut Sahakari Khand Udyog Mandli Ltd. Pandvai, Pandvai, Gujarat",Kosamba,"P.B. No. 3, Kosamba (R.S.) Pandvai, Teh. Hansot.","(02646) 287313, 14, 9925170009"
+"Sahakari Khand Udyog Mandal Ltd., NAVSARI, Gujarat",Gandevi,"Gandevi, A/p. Gandevi, via-Bilimora  Tal-Gandevi  Dist-Navsari (WR) South Gujarat India","(02634) 262344, 46."
+"Coper Co-op. Sugar Ltd., Dadariya, Gujarat",Virpur,"A/p - Dadariya, Teh. Valod.","(02625) 244105, 244094."
+"Shree Ukai Pradesh Sahakari Khand Udyog Mandli Ltd., Khushalpura, Gujarat",Paniari,"Khushalpura, Teh. Vyara.","(02626) 220219, 220319"
+"Shree Kamrej Vibhag Sahakari Khand Udyog Mandali Ltd., Navi Pardi, Gujarat",Kamrej,"N.H.No. 8, Navi Pardi (Vill.), Teh. Kamrej.","(02621) 234600, 290335, 09099972039."
+"Shree Kantha Vibhag Sahakari Khand Udyog Mandli Ltd., Saras, Gujarat",SARAS,"Olpad Saras Road, A/p. Saras, Teh. Olpad.",9979848245 9979848130
+"Shree Valsad Sahakari Khand Udyog Mandli Ltd., Valsad, Gujarat",Valsad,"N.H.No. 8, Parnera Pardi, PO. Valsad Sugar Factory.",(02632) 226944 to 48
+"Shree Vadodara District Co op. Sugarcane Growers Union Ltd., Gandhara, Gujarat",Gandhara Sugar,"At.Po. Gandhara, Teh. Karjan.",N.A.
+"Shree Mahuva Pradesh Sahakari Khand Udyog Mandli Ltd., Bamania, Gujarat",Mahuva,"A/p. Factory Site, Bamania, Teh. Mahuva.","(02625) 256835, 38, 39, 46."
+"Shree Khedut Sahakari Khand Udyog Mandli Ltd., Baben-Bardoli, Gujarat",Bardoli,"PO. Sardar Baug, Baben-Bardoli, Teh. Bardoli","(02622) 220170, 220173. 220705"
+"Shri Bileshwar Khand Udyog Khedut Sahakari Mandli Ltd., Kodinar, Gujarat",Kodinar,"At. Kodinar, Teh. Kodinar.","(02795) 221601, 221602, 221604, 220117."
+"Sri Basaveshwara Sugars Ltd., Athani, Karnataka",N.A.,"Vill. Baligeri, Tal. Athani",N.A.
+"HPCL Biofuels Ltd., Sugauli, Bihar",Sugauli,Sugauli,0612-2260186
+"Shree Durga Khandsari (Sugar) Mills, Pansemal, Madhya Pradesh",Mendrana,"Vill. Mendrana, PO. Kansul","(07286) 241851, 241551"
+"Maarewa Sugar Pvt.Ltd., Narmadanagar, Madhya Pradesh",Maa Rewa,"Vill. Narmadanagar, Teh. Kukshi, Dist. Dhar",N.A.
+"HPCL Biofuels Ltd, Lauriya, Bihar",Lauriya,Lauriya,(06253) 251811 to 14
+"Shree Kedareshwar Sahakari Sakhar Karkhana Ltd., Sumannagar, Maharashtra",Sumannagar,"Sumannagar, PO. Bodhegaon, Teh. Shevgaon",9112240338
+"Shree Kranti Sugar and Power Ltd., Devibhoyare, Maharashtra",Parner,At / post - Devibhoyare Teh.Parner,"(02488) 251250, 251402 Mo. No. 9075040485"
+"Sitaram Sugars and Allied Industries Ltd., Ladhod, Gujarat",Sitaram Sugars,"Ladhod, Teh. Bodeli,",N.A.
+"Shree Basaveshwar Sugars Ltd, Vijaypura, Karnataka",Karjol,"NH218, Karjol Village, Tq & Dist: Vijayapura",N.A.
+"Dalmia Bharat Sugar And Industries limited, Kokrud, Maharashtra","Sugar Unit- Ninaidevi, Kokrud","Village & Post- Karungali- Aarala, Taluka- Shirala, District- Sangli, Maharashtra",9146003098
+"Shree Kedareshwar Khandsari Udyog., Nimbhora, Gujarat",Nimbhora,"Vill. & PO. Nimbhora, Teh. Nizar.","(02628) 290272, 9168695590"
+"Khandala Taluka Shetkari SSK Ltd., (A Venture of Kisanveer SSK Ltd., Bhuinj), Khandala-Mhavashi, Maharashtra",Khandala,"Khandala-Mhavashi, Teh. Khandala, Dist. Satara 412 802",N.A.
+"Gokul Sugar Industries Ltd., Solapur, Dhotri., Maharashtra",Gokulsugar,"Dattanagar, A/p. Dhotri, Teh. South Solapur",9881237788
+"Madurantakam Co-op. Sugar Mills Ltd., Padalam, Tamil Nadu",Madurantakam,Padalam,(044) 27565222
+"The Kirlampudi Sugar Mills Ltd.,, Pithapuram, Andhra Pradesh",N.A.,"Pithapuram, Upada Road, Pithapuram",
+"The Amadalavalasa Co-op. Sugars Ltd., Amadalavalasa, Andhra Pradesh",N.A.,Amadalavalasa,"(08942) 286338, 286252"
+"The Nannapaneni Venkata Rao Co-op. Sugars Ltd., Vemuru Mandal, Andhra Pradesh",N.A.,"Jampani (V), Vemuru Mandal","(08644) 246246, 246256"
+"The Cuddapah Co-op. Sugars Ltd., Mandal Chennuru, Andhra Pradesh",N.A.,"Vill. Doulathapuram, Mandal Chennuru","(08562) 201300, 201355"
+"Sree Rayalaseema Sugar Energy (Pvt.) Ltd., Nandyal, Andhra Pradesh",Nandyal,"Vill. Ayyalurmetta, Nandyal",(08514) 245506
+"The Kovur Co-op. Sugar Factory Ltd., Kovur Mandal, Andhra Pradesh",Kovur,"Pothireddypalem (Vill.), Kovur Mandal",(08622) 271129
+"Brahmaputra Sugar Manufacturing Co. Ltd. (Lessee of Assam Co-op.Sugar Mills Ltd), Baruabamungaon, Assam",N.A.,Baruabamungaon,
+"Arihant Sugar Ltd., Chargola Ratabari, Assam",N.A.,Chargola Ratabari,"(03844) 83479, (03843) 87219"
+"The Nowgong Coop. Sugar Mills Ltd., Kampur, Assam",N.A.,Kampur,"(03672) 266433 (O), 266413 (R)"
+"Bihar State Sugar Corpn. Ltd., Gaya, Bihar",N.A.,Guraru Mills,"220635, 220630"
+"Bihar State Sugar Corpn. Ltd., Patna, Bihar",N.A.,Bihta,
+"Bihar State Sugar Corpn. Ltd., Warialiganj, Bihar",N.A.,Warialiganj,
+"Shri Datta Mahanteshwar Sugar Ltd., Afzalpur, Karnataka",N.A.,"H.No.2-30, Village- Chinamgiri- Ghangapur, Tal. Afzalpur",
+"Bihar State Sugar Corpn. Ltd., Sakri, Bihar",N.A.,"Lohat, Sakri",
+"Bihar State Sugar Corpn. Ltd., Samastipur, Bihar",N.A.,Samastipur,(06274) 22506
+"Bihar State Sugar Corpn. Ltd., Darbhanga, Bihar",N.A.,Ryam Factory,
+"Bihar State Sugar Corpn. Ltd., Motipur, Bihar",N.A.,Motipur,(06223) 24253
+"Bihar State Sugar Corpn. Ltd., Goraul, Bihar",N.A.,Goraul,
+"Champaran Sugar Co. Ltd., Barachakia, Bihar",N.A.,"Barrah Factory Branch, Barachakia",
+"Champarun Sugar Co. Ltd., Chanpatia, Bihar",N.A.,"Chanpatia Factory Branch, Chanpatia",
+"Cawnpore Sugar Works Ltd., Saran, Bihar",N.A.,"Marhowrah Factory Branch, P.O. Marhowrah","(0652) 83231, 83232"
+"The Behar Sugar Works, (The Industrial Corporation (P) Ltd.), Pachrukhi, Bihar",N.A.,Pachrukhi,(06154) 2654
+"Bihar State Sugar Corpn. Ltd., Siwan, Bihar",N.A.,New Siwan,"(06154) 22814, 22812"
+"Bihar State Sugar Coprn. Ltd., Siwan, Bihar",N.A.,Siwan,(06154) 22323
+"Bihar State Sugar Corpn.Ltd., Hathua, Bihar",N.A.,"Hathua, Mirganj","(06156) 31347, 31323, 31328 (R)"
+"Bihar State Sugar Corpn. Ltd., Banmankhi, Bihar",N.A.,Banmankhi,"(06454) 26246, 26214"
+"Sri Hanuman Sugar and Industries Ltd., Motihari, Bihar",N.A.,Motihari,(06252) 233221
+"Shree Reva Khand Udyog Sahakari Mandli Ltd., Amod, Gujarat",N.A.,"Amod State Highway No.6, Amod, Teh. Amod",(0261) 2470162
+"Shree Valod Pradesh Khand Udyog Sahakari Mandli Ltd.,, Valod, Gujarat",N.A.,"At. Dadaria, (Virpon) PO. Buhari, Teh. Valod","(02625) 44219, 22040"
+"Charotar Sahakari Khand Udyog Ltd., Petlad, Gujarat",N.A.,"Palaj, Teh. Petlad","(02697) 24453, 24518, 24656, 24618"
+"Shree Sardar Vallabhbhai Patel Khand Udyog Co-op. Society Ltd., Dhoraji, Gujarat",N.A.,"Jamnavad Road, Dhoraji",(02665) 20952
+"Shri Una Taluka Khedut Sahakari Khand Udyog Mandli Ltd., Una, Gujarat",N.A.,"Gir-Gadhada Road, Una (Sorath), Teh. Una",(02875) 221074
+"Siddheshwar Khand Udyog Sahakari Mandli Ltd., Talaja, Gujarat",N.A.,Talaja,
+"Shree Talala Taluka Sahakari Khand Udyog Mandli Ltd., Talala, Gujarat",Talala,"Sasan Road, Talala (Gir)","(02877) 222256, 222412"
+"Chaudhary Devi Lal Co-op.Sugar Mills Ltd., Sirsa, Haryana",N.A.,Sirsa (At Village Panniwala Mota),"(01668) 277381, 277409"
+"Soundri Sugars Ltd., Bellary, Karnataka",N.A.,Kampli Sugar Factory,"(08393) 50223, 50226"
+"Deve Sugars Ltd., Harige, Karnataka",N.A.,Harige,"(08182) 40591 to 95, 20593"
+"Salar Jung Sugar Mills Ltd., Munirabad, Karnataka",N.A.,Munirabad,"(08394) 86353, 86377"
+"Siruguppa Sugars and Chemicals Ltd., Gauribidanur, Karnataka",N.A.,Gauribidanur,"(08155) 86448, 86417, 86652"
+"Gangavati Sugars Ltd., Pragatinagar, Karnataka",N.A.,"Pragatinagar, Teh. Gangavati","(08533) 376038, 376036, 376138"
+"Vanivilasa Co-op. Sugar Factory Ltd., Hiriyur, Karnataka",N.A.,Hiriyur,"(08193) 227237, 227236"
+"Dakshina Kannada Sahakari Sakkare Karkhane Ltd., Brahmavara, Karnataka",N.A.,"Brahmavara, P.B.No.5",(0820) 2530097
+"Bhadra Sahakari Sakkare Karkhane Niyamit, Doddabathi, Karnataka",N.A.,"Doddabathi, Tal. Davanagere","(08192) 291545, 291544"
+"Badami Sugars Ltd., Badami, Karnataka",N.A.,"Ramdurga Road, Badami",(08357) 221177
+"The Jeypore Sugar Co. Ltd., (V.R.K. Sugars), Unit - II, Pothavaram, Andhra Pradesh",N.A.,Pothavaram,(08818) 274788
+"Shree Kedarnath Sugar Agro Products Ltd., Bagalkot, Karnataka",Kedar Sugar,"PO. Kerakalmatti, Teh. Badami","(08357) 234198, 234200, 234201, 234196"
+"S.P.R. Sugars (P) Ltd., Ramanagaram, Karnataka",SPR Sugars,"Vill. Kanchugaranahalli, Bidadi Hubli, Teh. Ramanagaram","(080) 27283272, 27283471, 27283472, 27283473"
+"The Co-operative Sugars Ltd., Chittur, Kerala",N.A.,"Chittur, P.O. Menonpara","Ph.- (0492) 372238, 372312, 372232"
+"Shahid Narendra Singh Chandrabat Sahakari Shakar Karkhana Ltd., Ratlam, Madhya Pradesh",N.A.,"Jaora, P. B. No. 23","(07414) 228173, 276314"
+"The Jiwajirao Sugar Co. Ltd., Dalauda, Madhya Pradesh",N.A.,Dalauda,"(07422) 61448, 52203"
+"BSI Limited (Formerly Bhopal Sugar Indu. Ltd.), Sehore, Madhya Pradesh",N.A.,"Sehore, Ganesh Mandir Road., PO. Sugar Factory","(07562) 52738, 52778, 54275 to 276"
+"Disha Sahakari Shakkar Karkhana Ltd., Ujjain, Madhya Pradesh",N.A.,Mehidpur Road,"(07365) 43213, 43250,43253, (R) 43245, 43270"
+"The Malwa S.S.K. Ltd.,, Barlai, Madhya Pradesh",N.A.,Barlai (Kshipra),(07272) 264362
+"The Morena Mandal Sahakari Shakkar Karkhana Ltd., Morena, Madhya Pradesh",N.A.,Kailaras,"(07536) 287172, 287673"
+"The Gwalior Sugar Co. Ltd., Gwalior, Madhya Pradesh",Dabra,PO. Dabra,"(07524) 404222, 408117, 408227"
+"Ahmedpur Sugar Mill, (A govt. of West Bengal Undertaking), Ahmedpur, West Bengal",N.A.,P.O. Ahmedpur,(03463) 230278 /228 / 224
+"Kashipur Sugar Mills Ltd. (Formerly Dhampur Sugar (Kashipur) Ltd.), Kashipur, Uttarakhand",Kashipur,Kashipur,"(05947) 275028, 275036, 275027"
+"Madura Sugars (Unit of Tamilnadu Sugar Corpn. Ltd.,), Vadipatti, Tamil Nadu",N.A.,"Pandiarajapuram, Teh. Vadipatti","(04543) 254221, 254261, 254243"
+"Arunachalam Sugar Mills Ltd., Malapambadi, Tamil Nadu",N.A.,"Arunachalam Nagar, Malapambadi","Ph.- (04175) 249313, 314, 316, 318"
+"Empee Sugars Ltd., Ambasamduram, Tamil Nadu",Idaikkal,"Alangulam Road, Idaikal PO. & Teh. Ambasamduram","(04634) 293643, 293686, 291596"
+"The Mewar Sugar Mills Ltd., Bhupalsagar, Rajasthan",N.A.,Bhupalsagar,"(01476) 284225, 284242"
+"Shri Keshoraipatan Sahakari Sugar Mills Ltd., Bundi, Rajasthan",N.A.,P.O. Keshoraipata,"(07438) 264890, 264226"
+"The Nizamabad Co-op. Sugar Factory Ltd., Sarangapur, Telangana",N.A.,Sarangapur,"(08462) 273016, (08462) 273116"
+"Shri Panzara-Kan Sahakari Sakhar Karkhana Ltd., Sakri, Maharashtra",N.A.,"Bhadne, Teh. Sakri",(02562) 236900
+"The Sanjay Sahakari Sakhar Karkhana Ltd., Vijaynagar, Maharashtra","N.A,","Dhule, Sindhkheda, Amalner, Vijaynagar, Po. Navalnagar, Teh. Dhule",
+"Sindkheda Shetkari Sahakari Sakhar Karkhana Ltd., Sindhkheda, Maharashtra",N.A.,"Vikhurle, Teh. Sindhkheda",(02566) 244439 to 240
+"Vinayak Sahakari Sakhar Karkhana Ltd., Vaijapur, Maharashtra",N.A.,"Parsoda, Vinayaknagar, Po. Parsoda, Teh. Vaijapur","(02436) 222465, 281415, 16, 17"
+"Kalambar Vibhag Sahakari Sakhar Karkhana Ltd. (Lessee Bhaurao Chavan S.S.K.Ltd., Nanded), Loha, Maharashtra",N.A.,"Gandhinagar, Teh. Loha",(02466) 62300
+"Shree Balaji Sahakari Sakhar Karkhana Ltd., Risod, Maharashtra",N.A.,"Keshavnagar, Teh. Risod",(0724) 24023 to 25
+"Akola Zilha Sahakari Sakhar Karkhana Ltd., Barshitakli, Maharashtra",N.A.,"Sahakar Maharshi Dr. Annasaheb Korpe Nagar, Vizora-Yeota, Po. Vizora, Teh. Barshitakli","(0724) 2258755, 2258751, 2437368"
+"Shri Kondeshwar Sahakari Sakhar Karkhana Ltd., Fubgaon, Maharashtra",N.A.,"Ramnagar, Fubgaon, Teh. Nandgaon Khandeshwar","(0721) 2662025, 2662522"
+"Shri Ambadevi Sahakari Sakhar Karkhana Ltd., Anjangaon, Maharashtra",N.A.,"Nityanand Nagar, Dahigaon (Recha) Road, Teh. Anjangaon","(07224) 242153, 242151"
+"Shetkari Sahakari Sakhar Karkhana Ltd., Amarvati, Maharashtra",N.A.,"Dhamangaon Railway, Teh. Dhamangaon Railway",(0721) 2662025
+"Wahid Sandhar Sugars Ltd., (The Bhuna Co-op. Sugar Mills Ltd.),, Bhuna, Haryana",--,Bhuna,
+"EST TOP Daya Sugar Ltd., (Unit of B.K. Investment Services Pvt. Ltd.), Gagalheri, Uttar Pradesh",Gagalheri,"Naya Bans, Gagalheri","(0132) 2785516, 2785517"
+"The Shriram Sahakari Sakhar Karkhana Ltd., Mouda, Maharashtra",N.A.,"Narendranagar, (Babdeo), Po. & Teh. Mouda",
+"Pushpadanteshwar Sahakari Sakhar Karkhana Ltd., Nandurbar, Maharashtra",Samssherpur,"Site Mohanbhai Nagar, Samsherpur, Teh. Nandurbar","(02564) 253743, 253763"
+"Ambaji Sugar Agro Industries Ltd., (Old The Belganga), Chalisgaon, Maharashtra",Bhoras,Chalisgaon,-
+"Raver Taluka Sahakari Sakhar Karkhana Ltd. (Lessee Laxmipati Balaji Sugar Distilleries Pvt. Ltd., Orissa), Raver, Maharashtra",N.A.,"Onkareshwar, Rajaramnagar, Karjod, Teh. Raver",(02584) 264588
+"Jai Ganga Sugar Industries Ltd. (Formerly Vasant Sahakari Sakhar Karkhana Ltd), Erandol, Maharashtra",N.A.,"Kasoda, Teh. Erandol",
+"Gangapur Sahakari Sakhar Karkhana Ltd., Gangapur, Maharashtra",N.A.,"PO. Raghunathnagar, Teh. Gangapur",
+"Dollex Industries - Mumbai (Godavari Manar S.S.K.Ltd), Biloli, Maharashtra",N.A.,"Shankarnagar, Teh. Biloli",
+"Jai Ambika Sahakari Sakhar Karkhana Ltd., Naigaon, Maharashtra",N.A.,"Mohannagar Kuntur, Teh. Naigaon (Khai.)",(02465) 258570
+"Anuradha Sugar Mills Ltd., Varud, Maharashtra",N.A.,"Shri Mungasaji Maharaj Nagar, Varud (Dhad), Teh. Buldhana",(07264) 242037
+"Shivshakti Aadivasi Magaswargiya Sahakari Sakhar Karkhana Ltd., Khamgaon, Maharashtra",N.A.,"Balkrishna Vasnik Nagar, Sujatpur, Teh. Khamgaon",
+"Sahakar Maharshi Late Bapuraoji Deshmukh Sahakari Sakhar Karkhana Ltd., Hinganghat, Maharashtra",Jinganghat,"Vela, Teh. Hinganghat","(07153) 256242 to 256243, (07153) 256259"
+"Deogiri Sahakari Sakhar Karkhana Ltd., Phulambri, Maharashtra",Phulambri,"Phulambri, Teh. Phulambri",(0240) 2633457
+"Jalna Sahakari Sakhar Karkhana Ltd., Jalna, Maharashtra",Ramnagar,"Ramnagar, PO. Sawargaon (Hadap), Teh. Jalna",
+"Shivajirao Patil Nilangekar Sahakari Sakhar Karkhana Ltd., Nilanga, Maharashtra",Ambulga,"Ambulga (Bk.), Site Jajnur-Zhari, Teh. Nilanga",(02384) 260026 to 28
+"Vaishnavi Sugar (India) Ltd., Sindkhedraja, Maharashtra",Shendurjan,"Shivbhaskar Nagar, Shendurjan, Teh. Sindkhedraja","(07264) 202060, 202070"
+"Jaikisan Sahakari Sakhar Karkhana Ltd., Darwha, Maharashtra",Bodegaon,"Mungsajinagar, Bodegaon, PO. Hatola, Teh. Darwha",
+"Nagar Taluka Sahakari Sakhar Karkhana Ltd., Nagar, Maharashtra",Walki,"Walki, A/p. Deulgaon Siddhi, Teh. Nagar","(0241) 2586225, 2586091 / 92"
+"Yashwant Sahakari Sakhar Karkhana Ltd., Haveli, Maharashtra",Theur,"Chintamaninagar, PO. Theur, Teh. Haveli",(020) 26913282 to 84
+"Jijamata Sugar Pvt. Ltd., Sindkhed Raj, Maharashtra",N.A.,"Shankarnagar, Dusar Beed, Teh. Sindkhed Raja",(07269) 269244
+"Shri Renukadevi Sharad Sahakari Sakhar Karkhana Ltd., Paithan, Maharashtra",N.A.,"Renukanagar, Choundhala, Po. Vihamandva, Teh. Paithan",9604424258
+"Shirpur Shetkari Sahakari Sakhar Karkhana Ltd., Shirpur, Maharashtra",Shirpur,"Shivajinagar, Dahiwad, Teh. Shirpur","(02563) 276209, 10, 11"
+"Vidarbha Sugar Mills Pvt. Ltd., Tivsa, Maharashtra",Kurha,"Kurha, Teh. Tivsa",
+"Ambajogai Sahkari Sakhar Karkhana Ltd., Ambajogai, Maharashtra",Ambasakhar,"Latur Road, Ambasakhar-431523 Tq.Ambajogai Dist.Beed",-
+"Pd. Dr. Vitthalrao Vikhe-Patil S.S.K. Ltd., Kej, Maharashtra",Kej,"Ashoknagar (Umari), Teh. Kej","(02445) 251201, 02"
+"Ghodawat Foods International Pvt. Ltd., (Khandsari and Jaggery), Chipari, Maharashtra",--,"Gat No.438, A/P. Chipari, Tal. Shirol",(02322) 255055
+"D.V.P. Group Dharashiv Sakhar Karkhana Ltd., Teh. Kalamb, Maharashtra",Chorakhali,"Chorkhali, Teh. Kalamb",N.A.
+"Narsinh Sahakari Sakhar Karkhana Ltd., Vashi, Maharashtra",Narsinha,"Indapur, Teh. Vashi",(02478) 270250
+"Terna Shetkari Sahakari Sakhar Karkhana Ltd., Osmanabad, Maharashtra",Terna,"Dhoki (Ternanagar), Teh. Osmanabad","(02472) 232041, 232061"
+"Shri Tuljabhavani Shetkari Sahakari Sakhar Karkhana Ltd., (Lease Dhurshti Sugars Distilleries Ltd.,), Tuljapur, Maharashtra",Naldurg,"Naldurg, Teh. Tuljapur","(02471) 246052, (02471) 246044"
+"Swami Samarth Sugar and Agro Ltd., Dumala (Warkhed), Maharashtra",N.A.,"Vill. Malewadi, Dumala (Warkhed), Tal. Newasa",N.A.
+"Amarsinh Naik Sugar and Allied Industries Ltd., (Khandsari and Jaggery), Shirala, Maharashtra",--,"Opp. Panchayat Samiti, Shirala, Tal. Shirala",(02345) 272222
+"Nagaland Sugar Mills Co. Ltd., Dimapur, Nagaland",N.A.,"6th Mile, Dimapur",
+"The Jeypore Sugars Co. Ltd., Rayagada, Orissa",N.A.,Rayagada,(06856) 235024
+"Western Orissa Sugar Ltd., Dharamgarh, Orissa",N.A.,"Nandanvan, PO. Mathura, Teh. Dharamgarh","(06672) 243321, 243322, 243357"
+"Laxmipathi
+ Balaji Sugar and Distilleries Pvt. Ltd (Unit - 1), (The Badamba 
+Co-operative Sugar Industries Ltd), Badambagarh, Orissa",N.A.,"At. Sunapal, PO. Badambagarh",(06721) 273247
+"The Budhlada Co-op. Sugar Mills Ltd., Budhalda, Punjab",N.A.,Budhalda (Mansa),
+"The Patiala Co-op Sugar Mills Ltd., Rakhra, Punjab",N.A.,"Rakhra, Village Rakhra (Nabha Patiala Road) P.B.71","(0175) 2620234, 2213157"
+"The Jagraon Co-op.Sugar Mills Ltd., Jagraon, Punjab",N.A.,"NH 95, G.T. Road, P.O. Jagraon",(01624) 223272
+"The Zira Co-op. Sugar Mills Ltd., Zira, Punjab",N.A.,V.Retaul Rohi PO. Zira,(01682) 252685
+"The Faridkot Co-op.Sugar Mills Ltd., Faridkot, Punjab",N.A.,Faridkot,(01639) 253029
+"The Tarn Taran Co-op. Sugar Mills Ltd., Amritsar, Punjab",N.A.,Tarn Taran,(01852) 246572
+"Markfed Sugar And Allied Industries Ltd., Muktsar, Punjab",N.A.,Malout,"(01637) 263531, 264796, 266832, 266836"
+"U.P. State Sugar Corpn. Ltd., Barabanki, Uttar Pradesh",N.A.,"Barabanki, Dewa Road, Sugar Mill",
+"Cawnpore Sugar Works Ltd., Gauri Bazar, Uttar Pradesh",N.A.,Gauri Bazar,"(05562) 7622, 7623"
+"U.P. State Sugar Corpn. Ltd., Chhituani, Uttar Pradesh",N.A.,"Chhitauni, PO. Chhituani",(05562) 222631
+"Cawnpore Sugar Works Ltd., (A Group Company of Gangotri Enterprises), Kathakuiyan, Uttar Pradesh",N.A.,Kathakuiyan Factory Branch,"(05564) 22215, 22301"
+"U.P. State Sugar Corpn. Ltd., Ghughli, Uttar Pradesh",N.A.,Ghughli R.S.,"(05523) 244329, 244330"
+"Swadeshi Mining and Manufacturing Co. Ltd., Anandnagar, Uttar Pradesh",N.A.,"Ganesh Sugar Mills, Anandnagar","(05522) 22024, 22027, 22029"
+"U. P. State Sugar Corpn. Ltd., Basti, Uttar Pradesh",N.A.,Munderwa,(05542) 271453
+"U.P.State Sugar Corpn. Ltd., Nawabganj, Uttar Pradesh",N.A.,Nawabganj,"(05260) 274165, 274228"
+"Nandganj Sihori Sugar Corp. Ltd., Ghazipur, Uttar Pradesh",N.A.,Nandganj (A State Govt. Undertaking),
+"U.P. State Sugar Corpn. Ltd., Sitapur, Uttar Pradesh",N.A.,Maholi,(05861) 235216
+"U.P. State Sugar Corpn. Ltd., Nekpur, Uttar Pradesh",N.A.,"Bareilly, Nekpur",(0581) 2433027
+"U.P. State Sugar Corpn. Ltd., Hardoi, Uttar Pradesh",N.A.,Hardoi,(05852) 220372
+"U.P. State Sugar Corpn. Ltd., Maliana, Uttar Pradesh",N.A.,"Baghpat Road, Maliana",(0121) 2527105
+"U.P. State Sugar Cane Deve. Corpn. Ltd., Rampur, Uttar Pradesh",N.A.,Rampur,(0595) 2350034
+"U.P. State Sugar and Cane Dev. Corpn. Ltd., Baitalpur, Uttar Pradesh",N.A.,Baitalpur,(05568) 285039
+"U.P. State Sugar and Cane Deve. Corpn. Ltd., Deoria, Uttar Pradesh",N.A.,Deoria,(05568) 248617
+"U.P. State Sugar and Cane Deve. Corpn. Ltd., Burhwal, Uttar Pradesh",N.A.,Burhwal,(05240) 233531
+"U.P. State Sugar and Cane Deve. Corpn. Ltd., Shahganj, Uttar Pradesh",N.A.,Shahganj,(05453) 222156
+"U.P. State Sugar and Cane Deve. Corpn. Ltd., Bhatni, Uttar Pradesh",N.A.,Bhatni,(05566) 281023
+"U.P. State Sugar and Cane Dev. Corpn. Ltd., Kushinagar, Uttar Pradesh",N.A.,Ramkola,"(05567) 256062, 256055"
+"Dhuriapar Kisan Sugar Mills Ltd., Deidiha, Uttar Pradesh",N.A.,"Dhuriapar Harpar, PO. Gajpur, Deidiha","(05521) 230142, 234280"
+"The Kashi Sahakari Chini Mills Ltd., Aurai, Uttar Pradesh",N.A.,Aurai,(05414) 243254
+"U.P. State Sugar and Cane Deve. Corpn. Ltd., Lakshmigang, Uttar Pradesh",N.A.,PO. Lakshmiganj,(05567) 254048
+"U.P. State Sugar and Cane Deve. Corpn. Ltd., Pipraich, Uttar Pradesh",N.A.,Gorakhpur,"(0551) 2672221, 2672816"
+"Kamlapur Sugar and Industries Ltd., Sitapur, Uttar Pradesh",Kamlapur,Kamlapur,9794350009
+"Ghatampur Sugar Co. Ltd., Ghatampur, Uttar Pradesh",Ghatampur,P.O. Ghatampur,
+"Chhata Sugar Co.Ltd. (A Subsidiary of U.P.State Sugar Corpn.), Chatta, Uttar Pradesh",Chhata,Chatta,"(05662) 242230, 242328, 242436"
+"The Kisan Co-op. Sugar Factory Ltd., Majhola, Uttar Pradesh",Majhola,Majhola,
+"Viraj Cane and Energy Ltd., (Khandsari and Jaggery), Khanapur, Maharashtra",-,"Vita Alsand, AP. Alsand, Gat No. 52411, Near Takari Canal, Tal. Khanapur",(02347) 272072
+"Nandganj Sihori Sugar Co. Ltd., Daryapur, Uttar Pradesh",Daryapur,Daryapur,(0535) 2202693
+"Piccadily Sugar and Allied Industries Ltd., Patran, Punjab",Patran,"Jakhal Road, Patran","(01764) 242027, 242501, (01764) 242500"
+"U.P. State Sugar Corpn. Ltd., Mohiuddinpur, Uttar Pradesh",Mohiuddinpur,Mohiuddinpur,(0121) 2410514
+"Venus Sugar Ltd., Chandausi, Uttar Pradesh",Venus,"Shiv Shakti Nagar, Post Narauli, Teh. Chandausi Dist Sambhal","(011) 22160479, 22160489"
+"Vardhan Agro Processing Ltd., (Khandsari and Jaggery), Satara, Maharashtra",--,"Gat No. 6441, Ap. Trimali, Tal. Khatav",9730687777
+"The Kisan Sahakari Chini Mills Ltd., Rasra, Uttar Pradesh",Rasra,Rasra,(05491) 226268
+"Saraya Sugar Mills, Sardarnagar, Uttar Pradesh",Sardarnagar,PO. Sardarnagar,"(0551) 2711389, 2711159, 2711160"
+"J.H.V. Distilleries and Sugar Mills Ltd., Padrauna, Uttar Pradesh",Padrauna,Padrauna,(0542) 2410771
+"Wave Industrial Ltd., Amroha, Uttar Pradesh",Amroha,PO. Kundan Nagar,
+"Wave Industries Pvt. Ltd., Saharanpur, Uttar Pradesh",Saharanpur,"P.B. No. 27, Village Bidvi","(01331) 226552, 226379, 226752"
+"Louh Purush Sardar Vallabhbhai Patel Sahkari Shakkar Karkhana Maryadit., Kabirdham, Chhattisgarh",Pandariya,"Pandariya, Dist. Kabirdham 491 559.",N.A.
+"Dadra Nagar Haveli Multi State Co-Op. Sugar Mill Ltd, Khanvel, Dadra and Nagar Haveli",N.A.,"Survey No.287/1, Vill. Dapada-Patala",N.A.
+"Kaveri Vibhag Sahkari Khand Udyog Mandli Ltd, Navsari, Gujarat",N.A.,"A/P- Sadharvel, Tal.- Chikhali",(02634) 232692
+"Shri Vrundavan Sugar Industries India Pvt. Ltd.,, Tapi, Gujarat",N.A.,"A/p. Dolvan, Tal. Vyara","(020) 41294545, 30525245, 30524245."
+"Shree Damanganga Sahakari Khand Udyog Mandli Ltd.,, Valsad, Gujarat",N.A.,"National Highway No. 8, Bhilad, Tal. Umargaon","(0260) 2991491, 2785191"
+"Shri Ukai Asargrast Vibhag Sahakari Khand Udyog Mandli Ltd.,, Tal. Songadh, Gujarat",N.A.,"Gunsada, At. Bardi Pada Falia",
+"Shree Mahi Panchmahal Sahakari Khand Udyog Mandli Ltd.,, Godhara, Gujarat",N.A.,"Above Co-operative Press, Opp. Jain Society, Highway Road,",(02672) 247178
+"Shree Vanvasi Sahakari Khand Udyog Mandli Ltd., Navasari, Gujarat",N.A.,"Khetwadi Utpanna Bazar Samitee, At Vansada, Tal. Vansada",
+"R.N. Bagwan Sugars Pvt., Belgaum, Karnataka",N.A.,"Golihalli, Tal. Khanapur",N.A.
+"The Bidar Kissan Shakkar Karkhana Ltd, PO. Markunda, Karnataka",Mogdal,"Mogdal Village, P.O. Markunda, N.H. 65, Teh. & Dist. Bidar",N.A.
+"G.M. Sugar Energy Pvt. Ltd, Haveri, Karnataka",Haveri,"Village sangur, Teh & Dist - haveri",N.A.
+"The Markandeya Co-op. Sugar Mills Ltd., Belagavi, Karnataka",N.A.,"F.S. No. 98, 99 , A/p. Kakati",(0831) 6450001
+"Sree Angadi Dutt Sugars Ltd., Dharwad, Karnataka",N.A.,"Survey No 10/1D,10/1C, Vill. Hoswal",(0836) 2444311
+"Mylar Sugars Ltd, Bellary, Karnataka",Berabbi,"Vill. & PO. Berabbi, Tal. Hoovina Hadagali, Dist. Bellary",N.A.
+"Shri Sangam Sahakari Sakkare Karkhane Niyamit, Hukkeri, Karnataka",N.A.,"Hidkal Dam, Tal. Hukkeri",N.A.
+"R.K. Powergen Pvt., Shimoga, Karnataka",N.A.,"Vill. Madikecheler, Tal. Holalur",(044) 66291000
+"Parvati Sweetners And Power Ltd., P.O. Sankhani., Madhya Pradesh",Sankhni,"Vill. & P.O. Sankhini, Teh. Bhitarwar.",(0755) 4236666
+"Sovereign Industries Ltd., N.A., Karnataka",N.A.,"Terdal, Tal. Jamkhandi,",N.A.
+"Utech Sugar Ltd., Kavthemalkapur, Maharashtra",USL,Kavthemalkapur,"(020) 24333300, 01, 04"
+"Sangamesh Sugars Ltd., Belagavi, Karnataka",N.A.,"Devapurahatti, Tal. Raibag",(08289) 251721
+"Vanshika Sugar and Power Industries Ltd., Vill. Bilgua, Madhya Pradesh",Bilgua,"Bilgua, Tendukheda",N.A
+"Sharda Sugars Pvt., Basavanabagewadi, Karnataka",N.A.,"Vill. Kodaganur, Tal. Basavanabagewadi",N.A.
+"Kakda Sugar and Energy Pvt.Ltd, Vill. Nayagaon, Madhya Pradesh",N.A,"Vill. Nayagaon, Tal. & Dist. Narsingpur",N.A
+"Alagawadi Bireshwara Sugars, Raibag, Karnataka",N.A.,"Vill. Alagawadi, Tal. Raibag",N.A.
+"Shri Bhimashankar Sahakari Sakkare Kharkhane Niyamit, Vijayapura, Karnataka",Bhimasugars,"Margur, Tal. Indi, Dist. Vijayapura",N.A.
+"Shri Shri Agro Organic Allied Pvt. Ltd., (Khandsari and Jaggery), Miraj, Maharashtra",--,"Sherikavathe, Ap. Kavathepiran, Tal. Miraj, Dist. Sangli 416 417","9890003830, 9422619863"
+"Sina Sugar Manufacturing Company Ltd., Kokangaon, Maharashtra",N.A.,"Jyotibawadi, Kokangaon, Tal. Karjat",N.A.
+"Chincholi Sugars Ltd., Chincholi, Karnataka",N.A.,Vill. & Tal. Chincholi,N.A.
+"Vijay Sawant Sugar and Agro Products Ltd., Vill. Shidvane, Maharashtra",N.A,"Vill. Shidvane, Tal. Kankavli","(02367) 230145, (022) 26204729"
+"Sri Chamundeshwari Sugars Ltd.,, N.A., Karnataka",N.A.,"Vill. Doddabyagatha Halli, Gangur, Tal. Holenarasipura",(080) 25002500
+"Sahyadri Sahakari Sakhar Karkhana Ltd, Dhamod, Maharashtra",N.A,"Indumatinagar, Dhamod, Tal. Radhanagari",(0231) 2654025
+"Shrirampur Ind. Pvt. Ltd., Vill. Jafrabad, Maharashtra",N.A.,"Vill. Jafrabad, Tal. Shrirampur",N.A.
+"Shri Siddeshwara Sugars, N.A., Karnataka",N.A.,"Vill. Telagi, Tal. Basavan Bagewadi",N.A.
+"Harshvardhan Sugar Ltd., Vill. Benwadi, Maharashtra",N.A.,"Vill. Benwadi, PO. Therwadi, Tal. Karjat",N.A.
+"Hindustan Sugars Ltd. Unit 2, Malgewadi, Maharashtra",N.A,"A/p. Malgewadi, Tal. Chandgad",
+"Om Intigrated Sugarcane Process Pvt. Ltd, Vill. Anuskura, Maharashtra",N.A,"Vill. Anuskura, Tal. Shahuwadi",
+"Shetkari Sahakari Sakhar Karkhana Ltd, Kokale, Site - Soni, Maharashtra",N.A,"Kokale, Site - Soni, Tal. Miraj",
+"Hindustan Sugars Ltd., (Unit No. 3), Nevasa (Bk), Maharashtra",N.A.,"Nevasa (Bk), Tal. Nevasa",N.A.
+"SP Sugar and Agro Pvt. Ltd., (Khandsari and Jaggery), Osmanabad, Maharashtra",-,"Kasbe Tadwale, Tal.  Osmanabad",
+"Honai Infra Engineering And Sugars Pvt. Ltd, Vill. Bastwade, Maharashtra",N.A,"Vill. Bastwade, Tal. Tasgaon",
+"Kranti Sakhar Karkhana, Khandgaon, Maharashtra",N.A.,"Khandgaon, Tal. Shrigonda",N.A.
+"Shri Dhanammadevi Sugar Power Ltd, Vill. Lavangi (Morbaggi), Maharashtra",N.A,"Vill. Lavangi (Morbaggi), Tal. Jat",
+"Nrusinha Sugar Mills Pvt. Ltd, Wadi (BK), Maharashtra",N.A.,"Wadi (BK), Tal. Kalwan",N.A.
+"Shripati Sugar Power Ltd, Vill. Dafalapur, Maharashtra",N.A,"Vill. Dafalapur, Tal. Jat",
+"Shri. S.D.M. Sugar Pvt. Ltd, Raiwadi, Maharashtra",N.A,"Gat No. 201, P.O. Raiwadi, Tal. Kavthemahankal",
+"Magi Agrochem Ltd., Sadgaon, Maharashtra",N.A.,"Sadgaon, Tal. Dhule",N.A.
+"Krishnakath Agro Process Ltd, Amanapur, Dudhondi, Maharashtra",N.A,"Amanapur, Dudhondi, Tal. Palus",(02346) 276111
+"Tasgaonkar Sugar Mills Ltd., Vill. Dattanagar, Kuruvali, Maharashtra",N.A,"Vill. Dattanagar, Kuruvali, Tal. Phaltan",022 24366402
+"Jamner Taluka Sahakari Sakhar Karkhana Ltd., Gondkhel, Maharashtra",N.A.,"Gondkhel, Tal. Jamner",N.A.
+"Lakshmipati Balaji Sugar and Distilleries Pvt. Ltd., Omkareshwar, Rajaramnagar, Karjod, Maharashtra",N.A.,"Omkareshwar, Rajaramnagar, Karjod, Tal. Raver",(02584) 250877
+"Swami Samarth Sakhar Karkhana, (Unit of Zambad Ugyog Ltd.), Mahalgaon, Maharashtra",N.A.,"Gat No. 156, A/p Mahalgaon, Tal. Vaijapur",N.A.
+"Ghrushneshwar Sugars Pvt. Ltd., Gadana-Khatnapur, Maharashtra",N.A.,"Gadana-Khatnapur, Tal. Khultabad",N.A.
+"Khandoba Prasanna Sakhar Karkhana Ltd, Pal, PO. Marali, Maharashtra",N.A,"Pal, PO. Marali, Tal. Karad",(02164) 261077
+"Lokvikas Sugar Mills Ltd., Garaj, Maharashtra",N.A.,"Gat No. 31-32, Garaj, Tal. Vaijapur",N.A.
+"SNP Agro Pvt. Ltd., Nasanvel, Maharashtra",N.A.,"At.Ahmedabad, Post- Nasanvel Tal.- Kannad",N.A.
+"Khatav-Man Taluka Agro Processing Ltd.,Padal, Village - Padal, Maharashtra",PADAL,"Vill. Padal, Tal. Khatav, Dist. Satara",8600226666
+"Ratna Sugar and Power Pvt. Ltd., Vill. Kasbe Vaijapur, Maharashtra",N.A.,"Vill. Kasbe Vaijapur, Tal. Vaijapur",N.A.
+"Hindustan Sugars Ltd., (Unit No.1), Gujarwadi (Bichukale), Maharashtra",N.A,"Gujarwadi (Bichukale), Tal. Koregaon",
+"Shrimant Swami Samarth Sugar Mills Pvt. Ltd., Pandepokhari, Maharashtra",N.A.,"Pandepokhari, Tal. Partur",N.A.
+"Arjun Sugar Industries Pvt. Ltd., N.A., Maharashtra",N.A.,"2nd Flor, Tapadia Terrases, Adalat road",N.A.
+"Shivneri Sugar and Allied Industries Limited (Old Jijamata Sugar Power Ind. Ltd.), Rahimatpur, Maharashtra",--,"Ganesh Tekdi Parisar, Pimpri Nhavi (Bk.), Rahimatpur, Aundh Road, Tal. Koregaon",
+"Shri Shivparvati Sakhar Karkhana Ltd., Moreshwarnagar, Mungi, Maharashtra",N.A.,"Moreshwarnagar, Mungi, Tal. Dharur",N.A.
+"Saikrupa Sugar And Allied Industries Ltd., Patan, Maharashtra",N.A,"Vill. Dagastiwadi - Murud, Tal. Patan",9225720009
+"Jaydatta Agro Industries Ltd., Ambora, Maharashtra",N.A.,"Ambora, Tal. Ashti",N.A.
+"Enercon Solution Mauli Sugars Pvt. Ltd., Chakarwadi, Maharashtra",N.A.,"Gat No. 154/ 155/ 140, Daryachiwadi, PO. Chakarwadi, Tal. Beed",N.A.
+"Pingale Sugar and Agro Products Pvt. Ltd., Vill. Selu, PO. Jategaon, Maharashtra",N.A.,"Vill. Selu, PO. Jategaon, Tal. Gevrai",N.A.
+"Mukundraj Sugar Mfg. Ltd. (Khandsari and Jaggery), Vill. Pathra, Maharashtra",N.A.,"Vill. Pathra, Tal. Kej",N.A.
+"Jagmitra Sugar Mills Pvt. Ltd., Vill. Tas, Maharashtra",N.A.,"Vill. Tas, Tal. Ambajogai",N.A.
+"Mohtadevi Sugar Mill Pvt. Ltd., Vill. Matori, Maharashtra",N.A.,"Vill. Matori, Tal. Shirur Kasar",N.A.
+"Tarini Sugar and Distillery Ltd., Gulkandgaon, Maharashtra",N.A.,"Gat No. 99, Gulkandgaon, Tal. Selu",N.A.
+"Shree Tuljabhavani Sugar Pvt. Ltd., Vill. Aadaon Darade, Maharashtra",N.A.,"Gat No. 273, Vill. Aadaon Darade, Tal. Sailu",N.A.
+"Shirin Sugars Ltd., N.A., Maharashtra",N.A.,"Flat No. 1, A Wing, Rose Building, 1st Floor, Panvelkar Garden, Old D.M. Colony, Ambarnath West",N.A.
+"Tuljabhavani Sakhar Karkhana Ltd, Vill. Barad, Maharashtra",N.A,"Vill. Barad, Tal. Phaltan",
+"Bhuleshwar Sugars Works Ltd, Rajuri (Rise), Maharashtra",N.A,"Survey no.180/181, Site- Rajuri (Rise), Tal. Purandar",
+"Harineshwar Agro Product Power East India Ltd, Kalas, Maharashtra",N.A,"Muktai Nagar, PO. Kalas, Tal. Indapur",
+"Parag Agro Foods And Allied Products Pvt. Ltd., Shirur, Maharashtra",Ravadewadi,"At - Ravadewadi Post - Malthan, Tal. Shirur, Dist.Pune - 412 218",9689286204
+"Junnar Sugar Ltd., Rajuri, Maharashtra",N.A,"Rajuri, Tal. Junnar",
+"Shree Swami Samarth Energy and Sugar Pvt. Ltd, Babulgaon, Maharashtra",N.A,"Gat No.105, Babulgaon Tal. Sengaon",(0217) 2305911
+"Jaihind Sugar Industries Pvt. Ltd, Vill. Nagansur, Maharashtra",N.A,"Vill. Nagansur, Tal. Akkalkot",N.A.
+"Shiur Sakhar Karkhana Ltd., Kalamnuri, Maharashtra",Wakodi,"Servey No. 82, Wakodi, Off. Nanded Hingoli Road, Malegaon Phata,",(020) 25510299
+"D.V.P. Dharashiv Sakhar Karkhana (Unit - 3), Loha, Maharashtra",SHIVANI JAMGA,"Jiraga Maruti Nagar, Shivani Jamaga, Tal. Loha",
+"Jai Kisan Agricultural Industries, Vill. Babulgaon, Maharashtra",N.A.,"Vill. Babulgaon, Tal. Kandhar",N.A.
+"Shiv Tulja Sugar Ltd., N.A., Maharashtra",N.A.,"Manohar bhavan, phule nagar nanded",N.A.
+"Shri Shivshakti Sahakari Sakhar Karkhana Ltd., Vill. Pratapnagar, Maharashtra",N.A.,"Vill. Pratapnagar, Tal. Omerga",N.A.
+"Shri Ramgiri Sugars Ltd, Vill. Gujerwadi-Savargaon, Maharashtra",N.A.,"Vill. Gujerwadi-Savargaon, Tal. Tuljapur",N.A.
+"Pearl Sugar Ltd, Vill. Chinchpur (Bk.), Maharashtra",N.A.,"Vill. Chinchpur (Bk.), Tal. Paranda",N.A.
+"Audumbarraoji Patil Sakhar Karkhana Ltd, Aashti (Kuranwadi), Maharashtra",N.A,"Aashti (Kuranwadi), Tal. Mohol","(02189) 241919, 241999"
+"Shri Kamala Sakhar Udyog Ltd., Kamalanagar, Maharashtra",N.A.,"Kamalanagar, Tal. Tuljapur",N.A.
+"Jai Tuljabhavani Sugar and Allied Ind. Ltd., Vill. Materewadi, Maharashtra",N.A.,"Vill. Materewadi, Tal. Bhum",N.A.
+"Siddhivinayak Sugars Ltd., Vill. Borwanti, Maharashtra",N.A.,"Vill. Borwanti, Tal. Kalamb",N.A.
+"Solapur Sugar Ltd, Vill. Darphal-Gavadi, Maharashtra",N.A,"Vill. Darphal-Gavadi, Tal. Uttar Solapur",
+"Tuljai SFAC Ltd., Shingoli, Maharashtra",N.A.,"Gat No. 123, Shingoli",N.A.
+"Laxmi Sopan Sugar Co-generation and Ethanol Company Ltd., Vill. Deolali, Maharashtra",N.A.,"Gat No. 402, Vill. Deolali, Tal. Bhoom",N.A.
+"Gokul Mauli Sugars Ltd., Tadwal, Maharashtra",GMSugar,"'Mauli Nagar' A/p. Tadwal, Tal. Akkalkot",9822887788
+"Twenty One Sugars Ltd., Malwati, Maharashtra",N.A.,"A/p. Malwati, Tal. Latur","(02382) 223901, 04"
+"Devarjan Laxmi Sugar Ltd., Hallibet-Hanmantwadi, Maharashtra",N.A.,"Hallibet-Hanmantwadi, Devarjan, Tal. Udgir",N.A.
+"Shivratna Krushi Udyog Pvt. Ltd., (Jijamatanagar) Ropale, Varkute, Maharashtra",N.A,"(Khandobacha Mal) Ropale, Varkute, Tal. Madha",
+"Keerthi Industries Ltd., Yadgir, Karnataka",N.A.,"Vill. Mustoor, Tal. & Dist. Yadgir","(040) 23078748, 23079998"
+"Pratibha Sugars Ltd, Pare, Maharashtra",N.A,"A.p. Pare, Tal. Sangola",(020) 26119379
+"Banashankari Sugars Pvt. Ltd., Vill. Ganjahalli, Karnataka",N.A.,"Vill. Ganjahalli, Tal. & Dist. Raichur",N.A.
+"Shivprabha Sugar Ltd., Vill. Gaudgaon, Maharashtra",N.A,"Vill. Gaudgaon, Tal. Barshi",
+"Vitthal Refined Sugars Ltd., Vill. Pande, Maharashtra",Kamalabhavani,"Vill. Pande, Tal. Karmala",9130550779
+"Lakshmiji Sugar Mill Co.Ltd., BILARI, Uttar Pradesh",SHREE AJUDHIA SUGAR MILLS,"POST-RAJA KA SAHASPUR, BILARI",N.A.
+"Jankalyan Sugars Ltd, Malegaon, Maharashtra",N.A,"Malegaon, Tal. Madha",
+"Aadityaraj Sugar Pvt. Ltd., (Khandsari and Jaggery), Hatij-Vairag, Maharashtra",N.A,"Hatij-Vairag, Tal. Barshi",
+"Kamuna Sugar Ltd., JALALABAD, Uttar Pradesh",N.A.,"Vill- DAHENA, P.O- THINGRI, TALUKA- JALALABAD, Distt- SHAHJAHANPUR",05223016847
+"Inamdar Sugars Ltd., Hirekoppa, Karnataka",N.A.,"Hirekoppa, Tal. Saundatti",(080) 23340487
+"H.B.Sugar Industries Ltd., N.A., Uttar Pradesh",N.A.,N.A.,N.A.
+"MRN Cane Power India Ltd., Chiralakoppa, Karnataka",N.A.,"Chiralakoppa, Tal. Badami",N.A.
+"M.S. Patil Sugars Ltd., Nimbala BK., Karnataka",N.A.,"Nimbala BK., Tal. Indi",(0217) 2720108
+"Sanjay Patil Sugars Ltd., Uchagaon Hubli, Karnataka",N.A.,"Naavage Vill., Uchagaon Hubli, Tal./Dist. Belagavi",(0831) 2922222
+"Shri Devi Sugars Ltd, Jalikatti, Karnataka",N.A.,"Jalikatti, Tal. Ramdurg",N.A.
+"Prem Sugars and Chemicals Corp. Ltd, Kalinganahalli-Belluru, Karnataka",N.A.,"Kalinganahalli-Belluru, Tal. Nagamangala",N.A.
+"Sarvabhouma Sugars Pvt. Ltd, Vill. Chandkavathe, Karnataka",N.A.,"Vill. Chandkavathe, Tal. Sindgi",N.A.
+"Godavari Biorefineries Ltd, Koujalgi Gokak, Karnataka",N.A.,"Koujalgi Gokak, Tal. Gokak","(080) 22236479, 22230795"
+"Belgaum Sugars Pvt. Ltd, Honawada, Karnataka",N.A.,"Honawada, Tal. & Dist. Vijayapura",N.A.
+"Shrikant Agrotech Industries Limited., (Khandsari and Jaggery), Karad, Maharashtra",--,"396/711, Mauli Mala, Ap. Surli, Tal. Karad",(02164) 278007
+"Yaragatti Sugars Pvt. Ltd, M. Chandarag, Karnataka",N.A.,"M. Chandarag, Tal. Ramdurg",(08332) 221100
+"Belgaum Sugars Pvt. Ltd, A/P. Hudali, Karnataka",Hudali,"A/P. Hudali, Teh. & Dist. - Belagavi",(0831) 2532000
+"Angadi Sugars And Power Ltd, Gonikoppa, Karnataka",N.A.,"Gonikoppa, Tal. Bailahongala",N.A.
+"Shivaaling Sugars Ltd, Nilavanji, Karnataka",N.A.,"Nilavanji, Tal. Devadurga",N.A.
+"VSL Sugars Pvt. Ltd, Vill. B. Gudihal, Karnataka",N.A.,"Vill. B. Gudihal, Tal. Kalgahtgi",N.A.
+"Kolhar Canes Pvt. Ltd, Vill. Angadageri, Karnataka",N.A.,"S.N. 140, Vill. Angadageri, Tal.  Basavana Bagewadi",(08426) 283277
+"King Rudra Sugars Ltd, Gulbarga, Karnataka",N.A.,Opp. V. G. Womens College; Aiwan-E-Shahi;,N.A.
+"Harsha Sugars Ltd, Vill. Soundatti, Karnataka",N.A.,Vill. & Tal. Soundatti,(0831) 2459977
+"SRK Sugar Pvt. Ltd, N.A., Karnataka",N.A.,N.A.,N.A.
+"Shree Laxmi Ranjitha Sugar India Ltd, Gulbarga, Karnataka",N.A.,N.A,N.A.
+"Shree Shree Sangayya Mutya Sugars Ltd, N.A., Karnataka",N.A.,N.A.,N.A.
+"Shivaji Cane Processors Ltd. (Khandsari and Jaggery), Shirala, Maharashtra",N.A.,"Plot No. D 4, M.I.D.C., Shirala",(02345) 272400
+"The Kisan Sahkari Chini Mills Ltd., Azamgarh, Uttar Pradesh",Sathiaon,Sathiaon,(05462) 272013
+"Raj Rajeshwari Sugar Pvt.Ltd., Mohpani, Madhya Pradesh",Mohpani,"Mohpani, Tal. Gadarwara.",(07791) 227166
+"Shree Govardhan Sugar Industries, Kukarmunda, Gujarat",Kukarmunda,A/p. & Teh. Kukarmunda.,"(02628) 296328, 290333."
+"V.P.K. Agro Food Product Pvt. Ltd. (Khandsari and Jaggery), Umri, Maharashtra",--,"Gat No. 345, Prayag Nagar, Sindhi, Tal. Umri",
+"Yadu Sugar Limited, Bisauli, Uttar Pradesh",Bisauli,"Vikas Chowk, Vill Sujanpur, Bisauli",(05834) 243308
+"Shivaji Service Station (Sugar Unit) (Old Jai Shivshankar), Mukhed, Maharashtra",Sheshnagar,"Shri Dattanagar, Barahali (Manjari), Tal. Mukhed.",-
+"Shri Sai Priya Sugars Ltd., Vill. Hippargi, Karnataka",Hipparagi,"Vishal Nagar, Alabal- Hipparagi Road,Teh.
+Jamkhandi",8548881111
+"The Cheyyar Co-op. Sugar Mills Ltd., Perumbalai, Tamil Nadu",Cheyyar,"D.S. No. 10, Anakkavoor-Thenthandalam, PO. Perumbalai",(04182) 294925
+"Shree Laxmi Nrusinh LLP (Mohatadevi-Nrusinh Sugar and Agro Product LLP), Parbhani, Maharashtra",Lohgaon,"Gat No. 62, Aamdapur, Post. Singnapur, Tal. & Dist. Parbhani 431402",8459786977
+"Sugar Grid Pvt.Ltd., Man, Maharashtra",--,"Gat No. 1739, Pingali (Bk.), Tal. Man",
+"Deligence Sugar And Agro Pvt.Ltd., Pune, Maharashtra",--,"A/P. Bhodani, Tal. Indapur",
+"Shri Samant Dada Agro Energy Pvt Ltd., Umarkhed, Maharashtra",-,"Rampur (Tanda), Post. Bhawani, Tal. Umarkhed",(07231) 237531
+"Quinergy Industries Ltd., (Lease Bhausaheb Birajdar S.S.K. Ltd.), Omerga, Maharashtra",--,"Samudral, Teh. Omerga",
+"Aayan Multitrade LLP (Unit - 1), Site- Samsherpur, Nandurbar-Prakasha Road, Maharashtra",Samsherpur,Samsherpur,"9112282000, 3000, 4000"
+"Hanumant Sugar Pvt.Ltd., Dhanora, Madhya Pradesh",Danora,"Vill. Dhanora, Tal. and Dist. Betul",9294602807
+"NEW SUGAR FACTORY, NEW, Andaman and Nicobar",NEW,NEW,
+"Shree Sant Kurmdas Sahakari Sakhar Karkhana Ltd.,, Padsali, Maharashtra",Pimpaldara,"S.M. Ganpatrao Sathe Nagar, Tal. Madha",N.A.
+"Kunturkar Sugar and Agro Pvt. Ltd., Kuntur, Maharashtra",Biloli,"Mohannagar-Kuntur, Teh. Naigaon (Kh.),",7720810156
+"The Kisan Sahakari Chini Mills Ltd.,, Satha, Uttar Pradesh",Harduaganj,Satha,7880888936
+"Atharv Intertrade Pvt. Ltd., (Leass Unit Daulat Shetkari SSK Ltd.,), Halkarni, Maharashtra",Halkarni,"Halkarni, Tal. Chandgad",
+"Jai Jawan Jai Kisan Sahkari Sakhar Karkhana Ltd.,, Chakur, Maharashtra",N.A.,Lalbahadur Shastrinagar (Nalegaon),
+"Ramganesh Gadkari Sahkari Sakhar Karkhana Ltd., Savner, Maharashtra",N.A.,Heti Surala,
+"Shri Santnath S.S.K. Ltd., Barshi, Maharashtra",N.A.,Tulshidasnagar,
+"DCM Shriram Ltd., (Unit- Loni), Anjhi Shahabad, Uttar Pradesh",Loni,"Vill. Loni, PO. Anjhi Shahabad",8756331332
+"U.P. State Sugar Corp.Ltd., Munderwa, Uttar Pradesh",N.A.,Munderwa,"8601357871, 9412665308"
